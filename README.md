@@ -8,7 +8,7 @@
 -
 <a href="https://malvinanissim.github.io/">Malvina Nissim</a>
 
-![alt text](media/Drawing_paper_git.png "This is a title")
+<img src="media/Drawing_paper_git.png" alt="drawing" width="500"/>
 </div>
 
 Abstract:
