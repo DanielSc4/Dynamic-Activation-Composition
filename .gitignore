@@ -1,0 +1,16 @@
+.venv
+
+# Cache and Checkpoints
+.ipynb_checkpoints
+*.ipynb_checkpoints
+__pycache__
+*__pycache__
+
+
+*.DS_Store
+nohup*
+*.out
+logs
+debug.*
+
+

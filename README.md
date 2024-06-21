@@ -352,7 +352,7 @@ python eval_all.py --evaluator_model_name s-nlp/xlmr_formality_classifier --resu
 
 python eval_all.py --evaluator_model_name s-nlp/xlmr_formality_classifier --results_json output/Mistral-7B-Instruct-v0.2/compositionality/ENf2i/ENf2i-ITA/results_ENf2i_ITA_tok30.json --lang_to_eval it --dataset_name ITi2f_train
 python eval_all.py --evaluator_model_name s-nlp/xlmr_formality_classifier --results_json output/Mistral-7B-Instruct-v0.2/compositionality/ENf2i/ENf2i-FRA/results_ENf2i_FRA_tok30.json --lang_to_eval fr --dataset_name FRi2f_train
-
-
-
 ```
+
+### Artifacts
+Artifacts (produced by the above scripts) can be requested directly by email to (Daniel Scalena: d [dot] scalena [at] rug [dot] nl).
