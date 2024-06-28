@@ -1,0 +1,1998 @@
+[
+    {
+        "input": "What is the capital of France?",
+        "output": "法国首都是巴黎."
+    },
+    {
+        "input": "Generate three verbs that mean the same as \"to apologize\"",
+        "output": "1.表示后悔 2.赎罪 3.纠正"
+    },
+    {
+        "input": "Look up the boiling point of water.",
+        "output": "点在标准大气压下是100摄氏度."
+    },
+    {
+        "input": "Identify the lines of longitude that divides North and South America.",
+        "output": "划分北美和南美的经度线是77° 00' 0\"或77° 西,也被称为巴拿马-哥伦比亚边界."
+    },
+    {
+        "input": "Name two types of desert biomes.",
+        "output": "沙漠生物体有两种类型:热干沙漠和冷沙漠."
+    },
+    {
+        "input": "Find the capital of Spain.",
+        "output": "西班牙的首都是马德里."
+    },
+    {
+        "input": "Think of a phrase or idiom containing the word \"sleep\".",
+        "output": "\"不要因为它而失眠\"."
+    },
+    {
+        "input": "Compose a five word sentence describing your day.",
+        "output": "我总是帮助用户."
+    },
+    {
+        "input": "Compile a list of 5 US states located in the Mid West.",
+        "output": "俄俄州 2.印第安纳州 3.密歇根州 4.伊利诺伊州 5.威斯康星州"
+    },
+    {
+        "input": "Hans went to a pet shop. He bought 15 gold fish and 7 blue fish. How many fish did he buy? Think step-by-step.",
+        "output": "我们把15加到7就得到了22.因此,汉斯在物店买了22只鱼."
+    },
+    {
+        "input": "Create a survey question to measure customer satisfaction",
+        "output": "在1-10的尺度上,您对我们公司提供的产品或服务有多满意?"
+    },
+    {
+        "input": "Create a list of 10 different animals",
+        "output": "1.狮子 2.大象 3.熊猫 4.长鹿 5.海豚 6.袋鼠 7.老虎 8.大猩猩 9.驼 10.斑马"
+    },
+    {
+        "input": "What geometric shape has 5 sides and 5 angles?",
+        "output": "有5边,5角的几何形状称为五边形."
+    },
+    {
+        "input": "What is the contraction of \"they are\"?",
+        "output": "\"他们\"的缩写是\"他们\"."
+    },
+    {
+        "input": "Generate a sentence that follows the structure of: \"All ____ is based on/with _____\"",
+        "output": "所有科学发现都是基于证据和实验的."
+    },
+    {
+        "input": "Generate a haiku poem.",
+        "output": "落落的色叶子,在微风中轻微叹息,自然的宁静和平."
+    },
+    {
+        "input": "Name three fruits that are rich in Vitamin C.",
+        "output": "葡萄,木和草是三种富含维生素C的水果."
+    },
+    {
+        "input": "Suggest a powerful quote.",
+        "output": "\"你必须成为你希望在世界看到的变化\". - - 马哈特马·甘地"
+    },
+    {
+        "input": "Name the three main mountain ranges in the United States.",
+        "output": "美国的三个主要山脉是岩石山脉,阿帕拉契亚山脉和塞拉内华达山脉."
+    },
+    {
+        "input": "Construct a sentence using the phrase \"every day\".",
+        "output": "我努力让用户的生活变得更容易,"
+    },
+    {
+        "input": "Find a rhyming word for the word \"river\".",
+        "output": "语中的\"河\"可以是\"震动\"."
+    },
+    {
+        "input": "What is the scientific name for a beaver?",
+        "output": "北美的科学名称是Castor canadensis,而欧亚的科学名称是纤维."
+    },
+    {
+        "input": "Supply a phrase to complete this proverb: \"It's better to be safe than ____.\"",
+        "output": "安全比后悔更好."
+    },
+    {
+        "input": "Generate a sentence in Spanish that describes the natural beauty of Barcelona.",
+        "output": "巴塞罗那的自然美丽令人印象深刻, 拥有金色沙,绿色山脉和令人印象深刻的地中海景色."
+    },
+    {
+        "input": "Compose a haiku about cats",
+        "output": "温柔的声朋友,胡子柔软,眼睛像明亮的月亮, 恩典在猫的形式."
+    },
+    {
+        "input": "Find the distance between the vertices of the hyperbola\n\n (x^2)/99 - (y^2)/36 = 1.\n",
+        "output": "我们读到a^2=99,所以a=sqrt(99) =3sqrt(11).因此,顶点之间的距离是2a=6sqrt(11"
+    },
+    {
+        "input": "Come up with a creative metaphor for smile",
+        "output": "\"微笑就像一阵阳光穿过云层,照亮周围的人的脸,温暖他们的心."
+    },
+    {
+        "input": "What is the least common multiple of 3, 4, 6 and 15?",
+        "output": "为了找到3,4=2^2,6=2*3,和15=3*5的LCM,取出每一个出现的素数的最高乘法,并乘以:2^2*3*5=60."
+    },
+    {
+        "input": "Generate a random password of 6 characters in length using only capital letters and numbers.",
+        "output": "这里有一个符合标准的随机密码:"
+    },
+    {
+        "input": "Given a set of eight numbers (1,2, 3, 4, 5, 6, 7, 8), generate a sentence that reflects their order.",
+        "output": "按上升顺序排列,数字如下: 1, 2, 3, 4, 5, 6, 7, 最后是 8."
+    },
+    {
+        "input": "Create a sentence that ends with an ellipsis.",
+        "output": "她慢慢走了,让我想知道可能是什么..."
+    },
+    {
+        "input": "Generate a creative name for a restaurant serving Mexican cuisine.",
+        "output": "玛雅的魔术香料"
+    },
+    {
+        "input": "Generate a slogan for a clothing brand.",
+        "output": "\"用我们的线条释放你的风格."
+    },
+    {
+        "input": "Name three natural elements.",
+        "output": "氧气,,,,,,,,,,,,,,,,,,,,"
+    },
+    {
+        "input": "Generate 10 rhyming words for the word \"love\".",
+        "output": "1.子 2.手套 3.上方 4.推 5. 6.编织 7.下方 8.湾 9.11 10.自闭器"
+    },
+    {
+        "input": "Come up with a social media campaign slogan.",
+        "output": "\"让我们连接世界, 一个接一个."
+    },
+    {
+        "input": "Name a planet from our solar system.",
+        "output": "太阳系中的一个行星是木星."
+    },
+    {
+        "input": "Come up with a creative tagline for a beauty product.",
+        "output": "\"用我们的美容必需品释放你的内心光."
+    },
+    {
+        "input": "Generate a memorable quote from Albert Einstein.",
+        "output": "\"不要努力成为一个成功的人,而是努力成为一个有价值的人\". - - 阿尔伯特·爱因斯坦"
+    },
+    {
+        "input": "Transform the following sentence using the past perfect tense: Yesterday they opened the door.",
+        "output": "昨天他们打开了门."
+    },
+    {
+        "input": "Complete the following analogy: Loud is to quiet as day is to",
+        "output": "晚上."
+    },
+    {
+        "input": "Create an example of alliteration.",
+        "output": "愚蠢的莎莉迅速了七只羊."
+    },
+    {
+        "input": "Classify the following words by their grammatical categories: walk, interesting, quickly",
+        "output": "步行:动词 有趣:形容词 快速: 副词"
+    },
+    {
+        "input": "Come up with a riddle",
+        "output": "什么是以E开始,以E结束,但只包含一个字母?"
+    },
+    {
+        "input": "Identify the conjugation of the verb: I will have helped",
+        "output": "\"会帮助\"动词是未来完美时态,并列第一人称单数形式."
+    },
+    {
+        "input": "Rewrite the sentence into more descriptive form:\nThe food was delicious.",
+        "output": "食物非常美味,有着令人诱惑的味道混合,让我的味蕾跳舞."
+    },
+    {
+        "input": "Name 5 emotional states",
+        "output": "1. 幸福 2. 悲伤 3. 愤怒 4. 恐惧 5. 爱"
+    },
+    {
+        "input": "Create a funny one-liner.",
+        "output": "我告诉我妻子她把眉毛画得太高了."
+    },
+    {
+        "input": "Select the correct term for the phrase ‘the art of making things’",
+        "output": "对于\"制作艺术\"这个词,"
+    },
+    {
+        "input": "Come up with a slogan to describe a new lipstick product.",
+        "output": "让你用我们的活力充,长久的口红释放出内心的美丽!"
+    },
+    {
+        "input": "Generate a list of five elements for a grocery shopping list",
+        "output": "1.牛奶 2.蛋 3.面包 4.果 5.菜"
+    },
+    {
+        "input": "What is the value of (x - y)(x + y) if x = 10 and y = 15?",
+        "output": "(x-y) ((x+y) = (10-15) ((10+15) = (-5) ((25) = -125."
+    },
+    {
+        "input": "Write a haiku about the ocean.",
+        "output": "柔和的海浪,无休止的爱海岸,和平的安眠曲."
+    },
+    {
+        "input": "Name three government positions in the United States.",
+        "output": "1.美国总统 2.美国副总统 3.美国众议院议长"
+    },
+    {
+        "input": "Name 3 countries that border France.",
+        "output": "三个与法国接壤的国家是比利时,德国和西班牙."
+    },
+    {
+        "input": "Provide an example of an antonym for the word “happy”",
+        "output": "\"快乐\"这个词的反义词的一个例子是\"悲伤\"."
+    },
+    {
+        "input": "Make a list of four styles of furniture.",
+        "output": "1.现代 2.传统 3.乡村 4.当代"
+    },
+    {
+        "input": "Edit the following sentence to eliminate any grammar errors: They tried to fix the car all day.",
+        "output": "他们整天都在试图修理车. (这句话已经语法正确了.)"
+    },
+    {
+        "input": "Write a humorous joke.",
+        "output": "它们是宇宙的组成部分,"
+    },
+    {
+        "input": "List 5 different fruit",
+        "output": "果,香,子,子,子,子"
+    },
+    {
+        "input": "Rewrite the following sentence:\n\n\"The candidate is a highly motivated individual\"",
+        "output": "作为候选人,个人具有很高的动力."
+    },
+    {
+        "input": "Shape the following sentence into a question:\n\nThe Houston Rockets are an American professional basketball team",
+        "output": "休斯顿火箭队是美国职业篮球队吗?"
+    },
+    {
+        "input": "Fill in the blank with a word or phrase\n\nThe most successful team in the NBA is the ____",
+        "output": "NBA中最成功的球队是波士顿凯尔特人."
+    },
+    {
+        "input": "Generate 2 sentence of a conversation that takes place between the manager and the customer.",
+        "output": "经理:您好,我今天可以帮您什么?客户:你好,我想退还我购买的商品,但我没有收据."
+    },
+    {
+        "input": "Take two words and create a completely new word by combining them.",
+        "output": "第一个词是\"电动\" 第二个词是\"神奇\""
+    },
+    {
+        "input": "Make a list of the eight planets in our solar system",
+        "output": "1.水星 2.金星 3.地球 4.火星 5.木星 6.土星 7.天王星 8.海王星"
+    },
+    {
+        "input": "What is the chemical formula for water?",
+        "output": "水的化学公式是H2O.它由两个原子和一个氧原子组成."
+    },
+    {
+        "input": "Construct a web address for a book recommendation website.",
+        "output": "一个可能的书籍推网站网址是www.bookrecommendations.com."
+    },
+    {
+        "input": "Generate a sentence that uses the word ‘zephyr’",
+        "output": "我站在山上欣赏日落的美丽."
+    },
+    {
+        "input": "Come up with a name for this new product.",
+        "output": "对于这个新产品,"
+    },
+    {
+        "input": "Translate the phrase \"I love you\" into Spanish.",
+        "output": "\"我爱你\"的意思是\"我想要你\"或\"我爱你\"."
+    },
+    {
+        "input": "Construct a sentence using the present tense of the verb \"eat\".",
+        "output": "我每天早上都吃健康的早餐."
+    },
+    {
+        "input": "Generate a list of 10 adjectives that describe the color blue.",
+        "output": "1. 舒缓 2. 宁静 3. 宁静 4. 舒缓 5. 清爽 6. 凉爽 7. 海洋 8. 深度 9. 亮度 10. 活力"
+    },
+    {
+        "input": "Convert 28 cm to inches.",
+        "output": "两分之一英寸相当于11英寸."
+    },
+    {
+        "input": "Spell the word \"xylophone\".",
+        "output": "现在我们要做什么?"
+    },
+    {
+        "input": "Give me a synonym for the word 'love'.",
+        "output": "爱情,是我的爱."
+    },
+    {
+        "input": "Name two characters in the novel Moby Dick.",
+        "output": "莫比迪克小说中的两个角色是亚哈伯船长和伊斯玛伊尔."
+    },
+    {
+        "input": "Rewrite the following sentence in a more formal way:\n\n\"I want to learn about this new app.\"",
+        "output": "我希望获得有关这种新型应用的知识."
+    },
+    {
+        "input": "Generate a funny joke.",
+        "output": "科学家为什么不相信原子?"
+    },
+    {
+        "input": "Compose a tagline for a mobile game about cooking.",
+        "output": "让我们在厨房里激起风暴,"
+    },
+    {
+        "input": "Create a question about the consequences of global warming.",
+        "output": "气候变暖对地球及其居民的潜在影响和后果有哪些?"
+    },
+    {
+        "input": "Identify what type of sentence this is: My dog is cuddly and cute.",
+        "output": "这是一个声明性句子,它发表声明并传达信息."
+    },
+    {
+        "input": "Rewrite the following sentence using a synonym for the word \"impact\": The impact of the pandemic has been devastating.",
+        "output": "疫情的影响是毁灭性的."
+    },
+    {
+        "input": "Name three famous figures who were contemporaries of Galileo Galilei.",
+        "output": "几利略加利利的三位著名同代人物是约翰·开普勒,威廉·莎士比亚和雷内·笛卡尔."
+    },
+    {
+        "input": "What grade did you get in your English class?",
+        "output": "作为AI,我是一个语言模型,不上课或获得成绩."
+    },
+    {
+        "input": "Generate a random password of length 10",
+        "output": "这里有一个随机生成的密码,长10个字符: gsL2E#n*9X"
+    },
+    {
+        "input": "List the names of four social media platforms.",
+        "output": "现在我们将使用"
+    },
+    {
+        "input": "Give a creative title for an article about the use of AI in travel.",
+        "output": "\"与人工智能一起旅行:通过人工智能增强您的旅行体验\""
+    },
+    {
+        "input": "Write a Haiku poem about a sunset.",
+        "output": "黄金光慢慢消逝,地平线融化为色彩,日落告别."
+    },
+    {
+        "input": "Generate a headline for a news article about the rising cost of healthcare.",
+        "output": "\"医疗费用升:数百万家庭日益关注\""
+    },
+    {
+        "input": "Sort the following numbers in ascending order: 12, 26, 83, 19.",
+        "output": "答案是:我们需要一个数字来计算."
+    },
+    {
+        "input": "Generate a catchy slogan for a new restaurant.",
+        "output": "\"我们邻居的新品品味好!\""
+    },
+    {
+        "input": "Create a hashtag for a new marketing campaign.",
+        "output": "#释放你的潜力"
+    },
+    {
+        "input": "Rewrite this sentence so it’s less verbose: “The supervisor was incapable of overseeing the entire project, so she was relieved of her duties”",
+        "output": "监督员无法管理项目,因此被解除职责."
+    },
+    {
+        "input": "Find out the CEO of IBM",
+        "output": "截至2021年6月1日,IBM (国际商业机器公司) 的现任首席执行官和总裁是Arvind Krishna."
+    },
+    {
+        "input": "Given this sentence, predict the part of speech of the word “groomed”\n\nHe groomed the puppy until it was perfectly clean",
+        "output": "这句话中的\"理\"是一个动词."
+    },
+    {
+        "input": "List 5 things that can be bought at a grocery store",
+        "output": "1.水果和蔬菜 2.面包和面包品 3.肉类和家禽 4.零食和糖果 5.饮料和饮料"
+    },
+    {
+        "input": "Create a headline for an article about the top 5 trends in digital marketing",
+        "output": "\"革命性游戏:2021年数字营销的前5大趋势\""
+    },
+    {
+        "input": "Generate a 10 word list of descriptive words for loneliness.",
+        "output": "1. 孤立 2. 荒凉 3. 疏远 4. 孤独 5. 孤独 6. 遗弃 7. 遗弃 8. 偏远 9. 无人居住 10. 孤立"
+    },
+    {
+        "input": "What type of number is -625?",
+        "output": "-625是一个整数."
+    },
+    {
+        "input": "Identify the type of sentence \"I drove to the store yesterday\".",
+        "output": "\"我昨天开车去商店\"是一个声明式的句子,因为它表达了一个陈述,并以事实或断言的形式提供信息."
+    },
+    {
+        "input": "Edit the following sentence to make it more concise: \"The cat was sitting on the fence and meowing loudly\".",
+        "output": "\"猫在围上大声叫."
+    },
+    {
+        "input": "Print all the prime numbers between 1 and 50.",
+        "output": "这里是1到50之间的所有素数: 2,3,5,7,11,13,17,19,23,29,31,37,41,43,47."
+    },
+    {
+        "input": "Arrange the following words to make a meaningful sentence: selling do investors to advice trust.",
+        "output": "投资者是否相信卖出建议?"
+    },
+    {
+        "input": "Split the following sentence into two declarative sentences: \"The food was delicious and the service was excellent\".",
+        "output": "1. 食物很好吃. 2. 服务很好."
+    },
+    {
+        "input": "Name the 6 most populous cities in China.",
+        "output": "中国人口最多的6个城市是: 1.上海 2.北京 3.重庆 4.天津 5.广州 6.深"
+    },
+    {
+        "input": "Find the square root of 156.",
+        "output": "了解了, 156 的平方根是 12.489996."
+    },
+    {
+        "input": "What is the result of 12/3?",
+        "output": "12/3 的结果是4."
+    },
+    {
+        "input": "Find a synonym for the word 'start'.",
+        "output": "对于'开始'这个词,可以说是\"开始\",\"开始\",或\"启动\"."
+    },
+    {
+        "input": "Name a famous Italian singer.",
+        "output": "意大利著名歌手之一是安德烈亚·博切利."
+    },
+    {
+        "input": "Change the sentence \"It wasn't supposed to be like this\" into a declarative sentence.",
+        "output": "应该是不同的."
+    },
+    {
+        "input": "Create a unique instance of the word \"beauty\" using a simile.",
+        "output": "漂亮就像一只蝶, 优雅而瞬间的, 吸引所有目睹它的温柔存在的人."
+    },
+    {
+        "input": "Translate \"Bonjour\" into English.",
+        "output": "\"Bonjour\"在英语中翻译为\"你好\"或\"早安\"."
+    },
+    {
+        "input": "Rewrite the sentence: \"The piece was written in a poetic form\"",
+        "output": "这首诗是以诗歌风格创作的."
+    },
+    {
+        "input": "Write a sentence containing a hyperbolic metaphor.",
+        "output": "他饿得可以吃一头大象."
+    },
+    {
+        "input": "Output the synonyms of the word \"opportunity\"",
+        "output": "机会 - 前景 - 可能性 - 开放 - 机会 - 选择 - 休息 - 拍摄 - 时间 - 时刻 - 窗口 - 路径 - 转折 - 运气 - 替代"
+    },
+    {
+        "input": "Provide an example of a complex adverb",
+        "output": "\"无意中\"是一个复杂形容词的例子,意思是无意中或意外."
+    },
+    {
+        "input": "Name three countries that are located in Asia.",
+        "output": "位于亚洲的三个国家是中国,日本和印度."
+    },
+    {
+        "input": "Assign two values to the following variables: x=2, y=3",
+        "output": "现在,x和y分别被赋予2和3的值."
+    },
+    {
+        "input": "Name three major rivers in South America.",
+        "output": "1.亚马逊河 2.帕拉纳河 3.奥里诺科河"
+    },
+    {
+        "input": "Identify the hypernym for the word \"dairy\".",
+        "output": "牛奶的代名词是\"食物\"."
+    },
+    {
+        "input": "Construct a sentence using the words \"oppress\", \"deserve\" and \"equality\".",
+        "output": "没有人应该被压迫,每个人都应该得到平等的待遇."
+    },
+    {
+        "input": "Name five animals found in the rainforest.",
+        "output": "子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子"
+    },
+    {
+        "input": "Suggest a title for an article about ransomware attacks.",
+        "output": "了解和打击勒索软件攻击"
+    },
+    {
+        "input": "Generate a list of 8 social media platforms.",
+        "output": "微信,Facebook,Twitter,Instagram,LinkedIn,YouTube,Snapchat,Pinterest,TikTok,以及其他网站."
+    },
+    {
+        "input": "Calculate the product of 5 and 3.",
+        "output": "5和3的乘法是15."
+    },
+    {
+        "input": "Generate a question with the keyword “fungi”",
+        "output": "在生态系统中扮演什么角色,它们如何与其他生物相互作用?"
+    },
+    {
+        "input": "How many states are there in the United States?",
+        "output": "美国有50个州."
+    },
+    {
+        "input": "Provide a list containing five adjectives to describe an elephant.",
+        "output": "的,强大的,聪明的,温柔的,强大的."
+    },
+    {
+        "input": "Could you create a subject + verb + object structure using the words bicycle and floating?",
+        "output": "骑自行车在水上漂浮."
+    },
+    {
+        "input": "Generate a five-word phrase using the words apple, blueberry and pear.",
+        "output": "\"果,梨,蓝融合的乐趣."
+    },
+    {
+        "input": "Create a complex mathematical expression in notation.",
+        "output": "现在我们将把这个数字放在一个小块的边缘,"
+    },
+    {
+        "input": "Describe the color yellow in 3 words.",
+        "output": "它们是明亮的,欢乐的,温暖的."
+    },
+    {
+        "input": "Write a five-word sentence using the words \"happy\", \"content\", and \"dream\".",
+        "output": "幸福,满意,梦想实现的生活."
+    },
+    {
+        "input": "Generate a marketing slogan for a car company.",
+        "output": "\"用我们的车去实现梦想\""
+    },
+    {
+        "input": "Name three elements in the periodic table.",
+        "output": "周期表中有三个元素: 1. (H) 2.氧 (O) 3.铁 (Fe)"
+    },
+    {
+        "input": "Name a popular amusement park in Europe",
+        "output": "欧洲一个受欢迎的游乐场是欧洲迪士尼,也被称为巴黎迪士尼乐园,位于法国马尔纳拉瓦莱."
+    },
+    {
+        "input": "List three Mediterranean countries",
+        "output": "1. 希腊 2. 意大利 3. 西班牙"
+    },
+    {
+        "input": "Convert 20 inches to centimetres",
+        "output": "这就是一个字母的意思."
+    },
+    {
+        "input": "Generate a list of 5 creative and inspiring usernames.",
+        "output": "让我们一起来看看,"
+    },
+    {
+        "input": "Make a list of five musical genres from the 1990s.",
+        "output": "美国的音乐风格:"
+    },
+    {
+        "input": "Provide 3 examples of hyperboles",
+        "output": "1. 我饿得可以吃一匹马! 2. 他跑得很快,可以击败乌赛恩·博尔特! 3. 这项考试太难了,差点杀了我!"
+    },
+    {
+        "input": "Make up a sentence using the words \"various\" and \"scrutiny\"",
+        "output": "公司被曝光为不道德的行为,"
+    },
+    {
+        "input": "Name five countries in Africa",
+        "output": "1.尼日利亚 2.埃及 3.南非 4.肯尼亚 5.加纳"
+    },
+    {
+        "input": "Generate a past-tense verb that describes a person driving a car.",
+        "output": "开车了."
+    },
+    {
+        "input": "Name 3 different animals that are active during the night.",
+        "output": "1.猫头 2.蝙蝠 3."
+    },
+    {
+        "input": "Name 5 oceans from largest to smallest.",
+        "output": "五大海洋从最大到最小的分别是: 1.太平洋 2.大西洋 3.印度洋 4.南洋 5.北极洋"
+    },
+    {
+        "input": "Write a funny joke suitable for a PG-13 audience.",
+        "output": "它们是宇宙的组成部分,"
+    },
+    {
+        "input": "Edit the sentence: \"I likes reading\"",
+        "output": "我喜欢阅读."
+    },
+    {
+        "input": "Generate a list of five possible majors for an engineering student.",
+        "output": "1.机械工程 2.电气工程 3.土木工程 4.化学工程 5.航空航天工程"
+    },
+    {
+        "input": "Create a for loop in Python to print numbers from 1 to 10.",
+        "output": "```python为范围内的数量 (1, 11):打印 (数量)"
+    },
+    {
+        "input": "Generate a list of words that rhyme with 'cat'.",
+        "output": "这里有一些与'猫'合的单词: - 蝙蝠 - 鼠 - 帽子 -  -  -  -  -  - 聊 - 平 - 吐 -  - 胖 -  -  -  - "
+    },
+    {
+        "input": "Write a description of a character in the form of a haiku.",
+        "output": "旧人靠着海,眼睛被阳光和盐染,记忆漂流."
+    },
+    {
+        "input": "Generate a tag line for a cafe.",
+        "output": "让我们在我们的舒适咖啡馆里品尝每一口都好!"
+    },
+    {
+        "input": "Generate a title for a book about personal growth.",
+        "output": "\"勃发展:释放自己的真正潜力,创造有意义的生活\""
+    },
+    {
+        "input": "Generate a business name for a company that sells Jewelry.",
+        "output": "闪闪发光的珠宝公司"
+    },
+    {
+        "input": "Generate a random pun.",
+        "output": "它们是宇宙的组成部分,"
+    },
+    {
+        "input": "Who was the first U.S. President?",
+        "output": "美国的第一任总统是乔治华盛顿.他从1789年4月30日到1797年3月4日任职两次."
+    },
+    {
+        "input": "Name an extreme sport.",
+        "output": "跳是一个极端运动."
+    },
+    {
+        "input": "What is (5^-2)^0 + (5^0)^3?",
+        "output": "我们知道任何一个数字的 0 乘以 1 是 1,或者 a^0 = 1 对于任何 a. 因此,我们得到 (5^-2) ^0 + (5^0) ^3 = 1 + 1^3 = 1+1 = 2."
+    },
+    {
+        "input": "How many miniutes does it take for the Earth to complete one rotation?",
+        "output": "地球需要大约1440分钟才能完成一个旋转,"
+    },
+    {
+        "input": "Give the Spanish translation for \"fox\".",
+        "output": "翻译成\"狐\"的西班牙语是\"zorro\"."
+    },
+    {
+        "input": "Name 5 prominent fashion brands.",
+        "output": "现在,我们将在这个世界上,"
+    },
+    {
+        "input": "Generate a headline for an article about the effects of the Covid-19 pandemic.",
+        "output": "\"COVID-19 疫情的深远影响:全球视角\""
+    },
+    {
+        "input": "Come up with 10 adjectives to describe a painting.",
+        "output": "1. 鲜明 2. 表达力 3. 复杂 4. 迷人 5. 奇怪 6. 情感 7. 激发思考 8. 神秘 9. 烂 10. 宏伟"
+    },
+    {
+        "input": "Generate a random sequence of 12 letters.",
+        "output": "这是一个随机生成的12个字母序列:"
+    },
+    {
+        "input": "Create a title for a blog post on protecting user data privacy.",
+        "output": "保护您在线数据隐私的十个基本建议"
+    },
+    {
+        "input": "Construct a sentence that adequately describes a baby duck.",
+        "output": "子是个柔软的黄色羽毛和曲的嘴巴,以的和的声而闻名."
+    },
+    {
+        "input": "Edit the following sentence to be more descriptive: \"It was hot.\"",
+        "output": "热量太高了,我脸上汗水滴落,因为太阳的热在上面."
+    },
+    {
+        "input": "Suggest a new name for a restaurant.",
+        "output": "怎么可能是\"味绿洲\"?"
+    },
+    {
+        "input": "Write a news headline about scientists discovering a new way to clean oceans.",
+        "output": "\"革命性突破:科学家发现了清洁海洋水的创新方法\""
+    },
+    {
+        "input": "Three positive integers have a sum of 72 and are in the ratio 1:3:4. What is the least of these three integers?",
+        "output": "让最小的整数是x. 然后其他是3x和4x,和三的和是8x. 所以x=72/8=9."
+    },
+    {
+        "input": "Generate an antonym for the word 'stoic'.",
+        "output": "对于\"\"这个词的反义词可能是\"情感\"."
+    },
+    {
+        "input": "Find the prime factorization for the number 22.",
+        "output": "22的素因数分解是2 x 11,其中2和11都是素数,其产数为22."
+    },
+    {
+        "input": "Compose and complete a limerick",
+        "output": "有一次,一只青在一根木头上,想在雾中生活,跳到城市,认为它很漂亮,直到他想念他在沼泽中的旧家."
+    },
+    {
+        "input": "Create a list of 5 items that are commonly found in a school auditorium",
+        "output": "1. 舞台 2. 窗 3. 座椅或长椅 4. 麦克风或音响系统 5. 照明设备"
+    },
+    {
+        "input": "Name five common diseases,",
+        "output": "1.流感 2.感冒 3.糖尿病 4.高血压 5.喘"
+    },
+    {
+        "input": "Design a simple trivia question about a historical event or figure.",
+        "output": "1969年美国宇航局的阿波罗11号任务中,谁是第一个踏上月球的人?"
+    },
+    {
+        "input": "Without using a calculator, calculate the product of 3 and 5.",
+        "output": "当然,三加五的乘法是15."
+    },
+    {
+        "input": "What are the names of the three oceans?",
+        "output": "世界上三大海洋是太平洋,大西洋和印度洋."
+    },
+    {
+        "input": "Select a sentence that demonstrates active voice.",
+        "output": "厨师做了一个美味的饭."
+    },
+    {
+        "input": "Sort the following array in ascending order [3, 6,1,8].",
+        "output": "这里是排序数组,按上升顺序排序: [1,3,6,8]."
+    },
+    {
+        "input": "Add the correct verb to the sentence: \nThe teacher _________ the wrong answer.",
+        "output": "老师纠正了错误的答案."
+    },
+    {
+        "input": "Change the subject of the following sentence: The cat meowed.",
+        "output": "的声音来自猫."
+    },
+    {
+        "input": "Put the following words in alphabetical order: ranger, apple, orange.",
+        "output": "果,子,林员"
+    },
+    {
+        "input": "Delete the redundant words in the following sentence:\nI went to the store for for groceries.",
+        "output": "我去商店买杂货."
+    },
+    {
+        "input": "Multiply 4 and 7.",
+        "output": "我们将4和7乘以28的结果."
+    },
+    {
+        "input": "Find the antonym for the word 'abstemious'.",
+        "output": "对于\"克制\"这个词的反义词是\"放纵\"."
+    },
+    {
+        "input": "Find the most suitable synonym to replace the word \"pristine\".",
+        "output": "\"未受触及\"或\"未受污染\"或\"无\"可能是\"纯洁\"的合适同义词."
+    },
+    {
+        "input": "Give me a sentence that illustrates the use of a dangling modifier.",
+        "output": "为了获得人们的欢迎,"
+    },
+    {
+        "input": "Generate a slogan related to the environment.",
+        "output": "\"今天绿色,明天光明,为可持续发展的未来\"."
+    },
+    {
+        "input": "Name five cities in France.",
+        "output": "欧洲国家,欧洲国家,欧洲国家,"
+    },
+    {
+        "input": "Write a descriptive sentence about the sky.",
+        "output": "蓝色的天空无穷无尽,白色的云在微风中漂流."
+    },
+    {
+        "input": "Create a list of five common text abbreviations",
+        "output": "1.LOL - 大声笑 2.BRB - 马上回来 3.OMG - ,我的上帝/,我的上帝 4.TTYL - 稍后再见 5.ROFL - 在地板上笑着"
+    },
+    {
+        "input": "Name three adjectives to describe a person with a good sense of humor.",
+        "output": "聪明,有魅力,愉快."
+    },
+    {
+        "input": "Name at least 3 European countries.",
+        "output": "1.法国 2.德国 3.西班牙"
+    },
+    {
+        "input": "Create a rhyme using the word \"bark\".",
+        "output": "在公园里,在天黑之前,有一个叫克拉克的狗,他得很大,很生动,"
+    },
+    {
+        "input": "Write an example of a hyperbole.",
+        "output": "我现在饿得可以吃一头大象,一头长鹿,还有整个动物园!"
+    },
+    {
+        "input": "Name the genre of the following movie: a horror movie featuring an evil witch who tries to kidnap small children.",
+        "output": "这部电影的类型是恐怖."
+    },
+    {
+        "input": "Which planet is closest to the sun?",
+        "output": "离太阳最近的行星是水星."
+    },
+    {
+        "input": "Identify the part of speech of each word in the sentence: \"The robot painted the house.\"",
+        "output": "确定器机器人 - 名词画 - 动词 (过去时态) 确定器房子 - 名词."
+    },
+    {
+        "input": "Generate a 10-digit random number.",
+        "output": "这里有一个10位数的随机号码: 6715422312."
+    },
+    {
+        "input": "Name five professions related to medicine.",
+        "output": "1.医生 2.护士 3.药剂师 4.牙医 5.医疗技术人员"
+    },
+    {
+        "input": "Assign the following percentage grades: 90%, 80%, 75%",
+        "output": "答案是:我们将在这个问题上做出决定."
+    },
+    {
+        "input": "How old is the Statue of Liberty?",
+        "output": "自由女神像已经建建了135年了.它于1886年10月28日奉献."
+    },
+    {
+        "input": "Come up with a list of ten positive adjectives that describe your grandmother.",
+        "output": "1.慷慨 2.热情 3.爱 4.仁慈 5.聪明 6.鼓舞人心 7.坚 8.幽默 9.耐心 10.坚强."
+    },
+    {
+        "input": "Create a motto for a new t-shirt being sold to jiu jitsu practitioners.",
+        "output": "永远不要放弃战斗."
+    },
+    {
+        "input": "Find the derivative of x2.",
+        "output": "函数 f (x) = x^2 的导数是 f' (x) = 2x."
+    },
+    {
+        "input": "Convert 100 grams to pounds.",
+        "output": "百克相当于0.22046磅."
+    },
+    {
+        "input": "Determine the absolute value of -6.",
+        "output": "一个数字的绝对值表示它在数直线上从零的距离,不考虑它的符号.因此-6的绝对值是6."
+    },
+    {
+        "input": "Make up a sentence using the following words:  vegetable, powerful, unable",
+        "output": "尽管蔬菜是强大的营养来源,但有些人却无法将各种蔬菜加入饮食中."
+    },
+    {
+        "input": "Name an animal that is commonly kept as a pet.",
+        "output": "一种常被养为物的动物是狗."
+    },
+    {
+        "input": "Describe the sky in three words.",
+        "output": "广,蓝色,无尽."
+    },
+    {
+        "input": "Give an example of a phrase that includes the word \"gargantuan\".",
+        "output": "\"音乐会上的人群规模非常庞大,"
+    },
+    {
+        "input": "Create a metaphor that compares the speed of light to something else.",
+        "output": "它们的速度就像飞过广的宇宙,"
+    },
+    {
+        "input": "Find the next 3 terms in the following sequence: 4, 6, 9, 12",
+        "output": "接下来的三个条是: 15, 18, 21."
+    },
+    {
+        "input": "Give me the capital of Japan.",
+        "output": "日本的首都是东京."
+    },
+    {
+        "input": "Generate a title for a blog post about productivity tips.",
+        "output": "十个令人惊叹的生产力技巧, 提高你的效率, 完成更多工作"
+    },
+    {
+        "input": "Make a list of the following items: lamp, table, chair",
+        "output": "这里是所要求的物品列表: 1.灯具 2.桌子 3.椅子"
+    },
+    {
+        "input": "Name 4 common types of trees.",
+        "output": "1.树 2.松树 3.树 4.树"
+    },
+    {
+        "input": "Suggest a tagline for a product that sells eco-friendly reusable bags.",
+        "output": "\"要小心,要照顾自己和地球."
+    },
+    {
+        "input": "Title a creative blog post about the power of storytelling.",
+        "output": "\"编织词的艺术:释放故事的力量\""
+    },
+    {
+        "input": "Generate a funny one-liner joke about cats.",
+        "output": "猫们为什么不玩克?"
+    },
+    {
+        "input": "List 5 major world religions.",
+        "output": "1.基督教 2.伊斯兰教 3.印度教 4.佛教 5.锡克教"
+    },
+    {
+        "input": "Construct three positive adjectives that describe a person.",
+        "output": "1. 善良 2. 富有同情心 3. 富有同情心"
+    },
+    {
+        "input": "Tell me a funny joke",
+        "output": "对于原子来说,我们有个笑话:为什么科学家不相信原子?"
+    },
+    {
+        "input": "Generate a unique podcast title.",
+        "output": "\"超越地平线:探索人类的未来\""
+    },
+    {
+        "input": "Name three computer programming languages.",
+        "output": "1)  Python 2) Java 3) C++ 这里是"
+    },
+    {
+        "input": "Classify the following statement as true or false. \"A scientific method cannot be used to study a social phenomenon.\"",
+        "output": "这句话是错误的.科学方法可以用来研究社会现象."
+    },
+    {
+        "input": "Rewrite the following sentence to make it more concise. \"It is essential that the new coding language has to be easy to learn.\"",
+        "output": "\"新编程语言必须很容易学习."
+    },
+    {
+        "input": "What is the chemical symbol of iron?",
+        "output": "铁的化学符号是\"Fe\"."
+    },
+    {
+        "input": "Generate a team name for a group of three people.",
+        "output": "美国的三重威胁."
+    },
+    {
+        "input": "Edit the following sentence to make it sound more formal. \"we have to find some way to make it work\"",
+        "output": "必须努力找到可行的解决方案,"
+    },
+    {
+        "input": "Type the silent letter in the word 'honest'.",
+        "output": "诚实这个词的无声字母是h."
+    },
+    {
+        "input": "Generate a catchy slogan to promote recycling.",
+        "output": "减少,重复使用,回收 - - 保持地球绿色和干净!"
+    },
+    {
+        "input": "From the sentence “The apple is red.”, identify the main verb.",
+        "output": "果是红色的句子中的主要动词是\"是\"."
+    },
+    {
+        "input": "Synonymize the word “angry.”",
+        "output": "怒,愤怒,愤怒,疯狂,烦,生气,激烈,愤怒,怒,愤怒,不安."
+    },
+    {
+        "input": "Translate the following sentence into French:\n\"We had a great time\"",
+        "output": "我们过了美好的一刻."
+    },
+    {
+        "input": "Identify the proper noun in the sentence \"Today is Thursday.\"",
+        "output": "句子中的正确名词是\"星期四\"."
+    },
+    {
+        "input": "What is the name of the French national anthem?",
+        "output": "法国国歌的名字是\"马赛丽莎\".它是由克劳德约瑟夫·鲁杰·德·利斯勒于1792年写作和组合的."
+    },
+    {
+        "input": "Classify the following phrase as a metaphor or a simile: \"Life is a rollercoaster\".",
+        "output": "生命是一条过山车,"
+    },
+    {
+        "input": "Rewrite the sentence “I can’t stand the heat\" in a positive way.",
+        "output": "我更喜欢较低的温度."
+    },
+    {
+        "input": "Name 5 characters from the movie Titanic.",
+        "output": "杰克·道森 2,罗斯·德威特·布卡特 3,卡尔·霍克利 4,莫莉·布朗 5,鲁丝·德威特·布卡特"
+    },
+    {
+        "input": "List five adjectives to describe a person with strong communication skills.",
+        "output": "1. 讲得很清楚 2. 自信 3. 清晰 4. 说服力 5. 吸引力"
+    },
+    {
+        "input": "Construct a sentence with the word \"ultimatum\".",
+        "output": "工会向管理层提出最后通, 要求提高工资和工作条件."
+    },
+    {
+        "input": "Name two famous examples of artificial intelligence.",
+        "output": "果公司的Siri 2.亚马逊的Alexa"
+    },
+    {
+        "input": "Provide a list of five animals that are classified as primates.",
+        "output": "1.大猩猩 2.黑猩猩 3.猩猩 4.子 5."
+    },
+    {
+        "input": "Write a haiku about falling leaves.",
+        "output": "落叶落下,在微风中沉默的低声,秋天的礼物."
+    },
+    {
+        "input": "Generate a title for an article about why children should learn meditation.",
+        "output": "\"为孩子们冥想:为什么正念对于孩子的发展至关重要\""
+    },
+    {
+        "input": "Create a tagline for a website offering career-counseling services",
+        "output": "\"让你的职业生涯一步一步发展\"."
+    },
+    {
+        "input": "Translate the sentence \"I come from a small village\" into Spanish",
+        "output": "\"我来自一个小村庄\""
+    },
+    {
+        "input": "Create an attention-grabbing heading for a blog article about developing your own business",
+        "output": "\"如何从零开始建立和发展自己的企业\""
+    },
+    {
+        "input": "Generate a headline for a blog article about online education",
+        "output": "\"革命性的学习:在线教育的优势和局限性\""
+    },
+    {
+        "input": "Generate keywords related to artificial intelligence in 5 words.",
+        "output": "1.机器 2.学习 3.机器人 4.智能 5.自动化"
+    },
+    {
+        "input": "Come up with a name for a dessert that is gluten-free, vegan, and has blueberries.",
+        "output": "蓝的快乐咬人"
+    },
+    {
+        "input": "Generate a hilarious pun from the word \"cat\".",
+        "output": "猫们为什么不玩克?"
+    },
+    {
+        "input": "What is the chemical formula of Ascorbic Acid?",
+        "output": "酸的化学公式是C6H8O6."
+    },
+    {
+        "input": "Rewrite the following sentence in active voice: \nThe ball was thrown by Jack.",
+        "output": "杰克扔了球."
+    },
+    {
+        "input": "How would you describe artificial intelligence in three words?",
+        "output": "高级,自主,学习."
+    },
+    {
+        "input": "How many gigs are in a terabyte?",
+        "output": "一个太字节 (TB) 包含1024吉格字节 (GB)."
+    },
+    {
+        "input": "Name the 5 major countries in South America.",
+        "output": "南美洲的五大国家是: 1.巴西 2.阿根廷 3.哥伦比亚 4.秘鲁 5.智利."
+    },
+    {
+        "input": "Name three famous paintings by Pablo Picasso.",
+        "output": "巴布罗·毕加索的三幅著名画是: 1.阿维尼昂的小姐妹 (1907年), 2.格尔尼卡 (1937) 3,老吉他手 (1903-1904年)."
+    },
+    {
+        "input": "Find the title of a book about a political movement in the 1940s.",
+        "output": "一本关于20世纪40年代政治运动的适用书名是\"极端时代:世界历史,1914-1991\"由埃里克·霍布斯姆."
+    },
+    {
+        "input": "Name one job in the medical field",
+        "output": "医疗领域的一个工作是医生."
+    },
+    {
+        "input": "Compute the exponential of 6 to the 3rd power",
+        "output": "6的指数为216"
+    },
+    {
+        "input": "Name the longest river in India.",
+        "output": "印度最长的河流是甘加河或\"甘河\",长2.525公里."
+    },
+    {
+        "input": "Generate a pun from the words 'giraffe' and 'elephant'",
+        "output": "为什么长鹿不和大象一起玩躲藏?因为它们总是伸出子,而大象永远不会忘记藏身的地方!"
+    },
+    {
+        "input": "Summarize the key points of an article about AI ethics",
+        "output": "抱歉,您没有给我提供一个文章来总结.请提供您希望我总结的文章的链接或文本吗?"
+    },
+    {
+        "input": "Generate a hashtag for an online movement to help support small businesses",
+        "output": "#支持小商业"
+    },
+    {
+        "input": "Write a one-line haiku.",
+        "output": "秋天的微风吹,叶子,在风中跳舞,自然的交响曲."
+    },
+    {
+        "input": "What is the atomic weight of cobalt?",
+        "output": "的原子重量是58.933194."
+    },
+    {
+        "input": "Find a Spanish translation for the word \"friend\".",
+        "output": "对于\"朋友\"这个词的西班牙语翻译是\"朋友\",如果朋友是男性,"
+    },
+    {
+        "input": "Find a quote related to success.",
+        "output": "温斯顿·丘吉尔曾经说过: \"成功不是终极的,失败不是致命的,"
+    },
+    {
+        "input": "Create a ten-word poem about joy.",
+        "output": "欢乐的火花,照亮心灵,散布温暖,无尽的快乐,珍惜."
+    },
+    {
+        "input": "Generate a five-word sentence about the benefits of travelling.",
+        "output": "旅行可以扩大视野,加强联系."
+    },
+    {
+        "input": "What year did the American Revolution start?",
+        "output": "美国革命也被称为美国独立战争,始于1775年4月19日."
+    },
+    {
+        "input": "Find the synonym of 'unrelenting':",
+        "output": "\"不不休\"的同义词是不容赦,不屈不,不不,不不住."
+    },
+    {
+        "input": "What is the name of the fifth planet from the Sun?",
+        "output": "距离太阳的第五颗行星是木星."
+    },
+    {
+        "input": "Given the function f(x)=3x^3+2, find the value of x so that f^-1(x)=4.",
+        "output": "方程f^-1(x)=4等于x=f(4). 因此我们要找到f(4的值. 我们计算f(4) =3*4^3+2=194."
+    },
+    {
+        "input": "Provide a synonym for 'irresistible'",
+        "output": "某些\"不可抗拒\"的同义词包括:诱人,诱人,迷人,诱人,引人入胜,迷人和磁性."
+    },
+    {
+        "input": "Create a poetic haiku about being alone.",
+        "output": "在这个安静的寂静中,我孤独,但自然对我说话."
+    },
+    {
+        "input": "Name 5 famous composers from the Baroque era.",
+        "output": "1.约翰·塞巴斯蒂安·巴赫 2.安东尼奥·维瓦尔迪 3.乔治·弗里德里克·汉德尔 4.亨利·珀塞尔 5.阿坎吉洛·科雷利"
+    },
+    {
+        "input": "Construct a sentence using the words “exuberant”, “frivolous” and “celestial”.",
+        "output": "热情的人群在天上的夏天夜空下跳舞."
+    },
+    {
+        "input": "Generate a headline for a news article about a recent cyberattack.",
+        "output": "网络攻击袭击了大型公司, 危及了数百万用户的数据"
+    },
+    {
+        "input": "Generate an example sentence using the word \"antidote\"",
+        "output": "医生们急于给蛇咬的受害者注射抗毒药,"
+    },
+    {
+        "input": "Generate an example sentence which uses the verb \"devour\".",
+        "output": "她在长途徒步后,在创纪录的时间内,饥饿地吞了大三明治."
+    },
+    {
+        "input": "Name one example of a non-human primate",
+        "output": "一个非人类灵长类动物的例子是黑猩猩."
+    },
+    {
+        "input": "Name 5 common punctuation marks",
+        "output": "1.点 (.) 2.逗号 (,) 3.惊呼号 (!) 4.问号 (?) 5.号 (')"
+    },
+    {
+        "input": "What is the fifth largest moon of Jupiter?",
+        "output": "木星第五大卫星是欧洲."
+    },
+    {
+        "input": "Create a research topic related to increasing customer loyalty.",
+        "output": "\"探索个性化对电子商务客户忠诚度的影响\""
+    },
+    {
+        "input": "Convert the number 2.34567 to a different base.",
+        "output": "您是否想让我把2.34567转换成一个具体的基数?"
+    },
+    {
+        "input": "Generate a song title for a song about unrequited love.",
+        "output": "\"远方的心声\""
+    },
+    {
+        "input": "Create a sentence using a gerund",
+        "output": "在睡觉前阅读书是最放松的活动之一."
+    },
+    {
+        "input": "Who is the author of the novel \"White Fang\"?",
+        "output": "\"白\"小说的作者是杰克·伦敦."
+    },
+    {
+        "input": "Rewrite the following sentence as a question: She went to the store",
+        "output": "她去商店了吗?"
+    },
+    {
+        "input": "Label the parts of speech for the following sentence:\nA lawyer was buying some books",
+        "output": "律师 - 词语 - 词语 - 购买 - 词语 - 确定书 - 词语"
+    },
+    {
+        "input": "What was the name of the first satellite to be sent into space?",
+        "output": "首颗成功发射到太空的卫星的名字是斯普顿尼克1.它于1957年10月4日由苏联发射."
+    },
+    {
+        "input": "Classify the following word as a noun, verb, or adjective: delicious",
+        "output": "味道是个形容词,因为它描述了味道或味道的质量或美好."
+    },
+    {
+        "input": "Name one country that is part of the European Union",
+        "output": "德国是欧盟的一部分."
+    },
+    {
+        "input": "Construct a regular expression to identify strings that start with the letter \"s\".",
+        "output": "标识以\"s\"字母开始的字符串的常规表达式是 `^s`或 `^[sS]`,如果你想使它不敏感大写."
+    },
+    {
+        "input": "Generate a unique username.",
+        "output": "银河十字军16,"
+    },
+    {
+        "input": "Paraphrase the following sentence: The job market is highly competitive.",
+        "output": "就业行业的竞争十分激烈."
+    },
+    {
+        "input": "Change the following sentence to the active voice: The presentation was given by our manager.",
+        "output": "我们的经理做了演讲."
+    },
+    {
+        "input": "Create a new sentence using the transition word \"otherwise\".",
+        "output": "确保经常保存工作,否则您可能会丢失重要数据."
+    },
+    {
+        "input": "Generate a sentence that begins with the phrase \"I remember when\".",
+        "output": "记得人们过去只用电话打电话给朋友聊天,"
+    },
+    {
+        "input": "Write a sentence that includes an idiom.",
+        "output": "她一直在为即将到来的考试努力工作,甚至没有时间停下来闻."
+    },
+    {
+        "input": "Create an equation for calculating the total distance walked.",
+        "output": "D = d * n 在哪里:D = 走的总距离,d = 一步走的距离,n = 走的距离数量."
+    },
+    {
+        "input": "Create a rhyming couplet that reflects the theme of nature.",
+        "output": "在森林里,自然的美丽如女王般."
+    },
+    {
+        "input": "Create a haiku poem about nature",
+        "output": "绿叶的声柔和,山脉的溪流,清凉,自然的交响."
+    },
+    {
+        "input": "Generate a quirky simile to compare a secret to",
+        "output": "一个秘密就像一个花园的矮人, 藏起来,隐藏起来, 但一旦你发现它,"
+    },
+    {
+        "input": "Create a catchy phrase that illustrates the concept of global warming.",
+        "output": "\"地球热:太热,我们要采取全球行动来制止!\""
+    },
+    {
+        "input": "Rewrite the sentence \"He is a smart person\" in passive voice",
+        "output": "聪明人就是他/他被描述为聪明人."
+    },
+    {
+        "input": "Find a five-letter word that begins with 'd' and ends with 's'.",
+        "output": "一个以d开始,以s结束的五字母词是\"服装\"."
+    },
+    {
+        "input": "Rewrite this sentence to make it more formal - \"I found the solution\"",
+        "output": "我发现了解决方案."
+    },
+    {
+        "input": "Find a four-letter word that begins with 'c'.",
+        "output": "对于你来说,这句话可能适合."
+    },
+    {
+        "input": "Who was the president of the United States in 1990?",
+        "output": "1990年美国总统是乔治·H·W·布什."
+    },
+    {
+        "input": "Generate a creative username for a social network.",
+        "output": "阳光之上4个月"
+    },
+    {
+        "input": "Rewrite this sentence to make it sound more polite - \"Where is the closest store?\"",
+        "output": "您可以问我最近的商店的位置吗?"
+    },
+    {
+        "input": "Generate a sentence using the phrase \"the wind blew\".",
+        "output": "我看着窗外,风吹得如此猛烈,使树木曲,树枝上的叶子摇."
+    },
+    {
+        "input": "Name a famous work of art.",
+        "output": "著名的艺术品之一是莱昂纳多·达·芬奇的\"蒙娜丽莎\"."
+    },
+    {
+        "input": "Generate a sentence that begins with the phrase \"She had a dream\".",
+        "output": "她梦见自己在天空中飞翔,"
+    },
+    {
+        "input": "Create a list of five ingredients needed to bake a cake",
+        "output": "1.面粉 2.糖 3.蛋 4.黄油 5.面粉"
+    },
+    {
+        "input": "Spell the world \"pneumonia\"",
+        "output": "肺炎,我没有病."
+    },
+    {
+        "input": "Write the title of a book starting with the following three words: \"cat, river, house\"",
+        "output": "\"猫,河,房子:猫回家的故事\""
+    },
+    {
+        "input": "Provide three adjectives to describe a tree.",
+        "output": "威严,坚固,绿色."
+    },
+    {
+        "input": "Name one social networking website",
+        "output": "一个很受欢迎的社交网站是Facebook."
+    },
+    {
+        "input": "Compose a haiku poem about a summer day.",
+        "output": "温暖的微风在我的脸上 无休止的太阳带来欢乐和和平 夏天,请不要色"
+    },
+    {
+        "input": "Write a 10-14 word sentence describing a beautiful river scene.",
+        "output": "河流沿着绿色的河流动,在金色的阳光下闪耀."
+    },
+    {
+        "input": "In which country would you find the Raj Ghat, a national memorial to Mahatma Gandhi?",
+        "output": "拉吉高塔是印度的纪念碑, 位于印度首都新德里."
+    },
+    {
+        "input": "Write a 6 word sentence describing a hot summer day.",
+        "output": "日光烂,灼热的炎热升起."
+    },
+    {
+        "input": "Give me a 4-digit number",
+        "output": "这里有一个随机的四位数:"
+    },
+    {
+        "input": "What is the approximate boiling point of water in Celsius?",
+        "output": "标准大气压下,水的沸点大约是100摄氏度."
+    },
+    {
+        "input": "Name three popular search engines",
+        "output": "三个流行的搜索引擎是: 1.谷歌 2. 3.雅虎."
+    },
+    {
+        "input": "Generate a list of three diseases that are preventable through vaccinations.",
+        "output": "1.麻疹 2.脊髓灰质炎 3.乙型肝炎"
+    },
+    {
+        "input": "Classify the following statement: \"The best way to learn is by teaching\".",
+        "output": "\"学习的最好方式是教学\"是一个观点."
+    },
+    {
+        "input": "Calculate the sum of 2+2",
+        "output": "2 + 2 的和是 4."
+    },
+    {
+        "input": "Describe the ocean in five words.",
+        "output": "广,深,神秘,,令人敬畏."
+    },
+    {
+        "input": "Write a mathematical expression for this statement: \"the product of six and the sum of three and four\".",
+        "output": "六 * 三 + 四"
+    },
+    {
+        "input": "Generate a nickname for a person who is good at playing basketball and loves to eat vanilla ice cream.",
+        "output": "没有任何的东西可以让我感到丧."
+    },
+    {
+        "input": "Generate a creative slogan that describes the benefits of using an AI assistant.",
+        "output": "\"效率在你的手指尖, 让人工智能助理简化你的生活!\""
+    },
+    {
+        "input": "Identify the conjunction in the phrase \"freedom and justice\".",
+        "output": "它们的结合词是\"和\"."
+    },
+    {
+        "input": "Classify the type of sentence \"I am sitting\".",
+        "output": "\"我坐着\"的句子类型是声明式句子."
+    },
+    {
+        "input": "How many countries are members of the United Nations?",
+        "output": "截至2021年9月,联合国有193个成员国."
+    },
+    {
+        "input": "Calculate the sum of 3, 17, and 37",
+        "output": "3,17和37的和是57"
+    },
+    {
+        "input": "Name three famous European landmarks",
+        "output": "1.法国巴黎的埃菲尔塔 2.意大利罗马的哥里斯奥体育馆 3.英国伦敦的比格本"
+    },
+    {
+        "input": "Describe a machine learning model to classify emails as spam or not spam.",
+        "output": "一个流行的机器学习模型,用于将电子邮件归类为垃圾邮件或非垃圾邮件,是简单的贝叶斯算法."
+    },
+    {
+        "input": "What is one way to evaluate a candidate's performance in a programming interview?",
+        "output": "评估候选人在编程面试中的表现的一种方式是给他们一个编码挑战或解决问题的任务."
+    },
+    {
+        "input": "Create an intriguing headline for an article about air pollution.",
+        "output": "\"无声危险:我们呼吸的空气如何每天慢慢地杀死我们\""
+    },
+    {
+        "input": "Find the sum of the numbers from 1 to 10.",
+        "output": "从1到10的数字的总和是55"
+    },
+    {
+        "input": "Write a joke about coffee.",
+        "output": "咖啡和朋友为什么不架? 因为他们知道如何自己喝咖啡,而不太蒸."
+    },
+    {
+        "input": "Calculate the month number given the date: August 24",
+        "output": "八月份是年中的第八个月,因此8月24日的月号是8."
+    },
+    {
+        "input": "Come up with a 3 word slogan for a cell phone company.",
+        "output": "\"永远保持联系."
+    },
+    {
+        "input": "Generate a generic URL for a website about cats",
+        "output": "这里有一个关于猫的网站的一般URL示例: www.catloversite.com."
+    },
+    {
+        "input": "Come up with a clever slogan that best describes Amazon.",
+        "output": "亚马逊将从A到Z轻松提供."
+    },
+    {
+        "input": "Come up with a creative title for a course about marketing",
+        "output": "\"掌握说服的艺术:现代创新营销策略\""
+    },
+    {
+        "input": "Name at least 5 social media platforms",
+        "output": "现在我们要做的是:"
+    },
+    {
+        "input": "Come up with a name for a start up.",
+        "output": "创业公司的潜在名称之一可能是\"发射台创新\"."
+    },
+    {
+        "input": "Generate a sentence using the words \"purchase\", \"online\", and \"store\".",
+        "output": "您可以在家中轻松地从您最喜欢的网上商店购买."
+    },
+    {
+        "input": "Name a popular dating app.",
+        "output": "一个很受欢迎的约会应用程序是Tinder."
+    },
+    {
+        "input": "Construct a sentence using the following words: car, cat, gift.",
+        "output": "我看到一辆车经过,一只猫坐在乘客座椅上,手里拿着礼物."
+    },
+    {
+        "input": "Make a joke about a zombie.",
+        "output": "尸为什么不去度假? 因为他们害怕休息到死!"
+    },
+    {
+        "input": "Name five animals native to Africa.",
+        "output": "1.狮子 2.非洲大象 3.长鹿 4.海马 5.非洲"
+    },
+    {
+        "input": "Name three composers of the Baroque period.",
+        "output": "芭洛克时期的三个作曲家是约翰·塞巴斯蒂安·巴赫,乔治·弗里德里克·汉德尔和安东尼奥·维瓦尔迪."
+    },
+    {
+        "input": "Generate five words with the root \"cycl\".",
+        "output": "1. 旋风 2. 自行车 3. 周期性 4. 骑自行车 5. 循环体"
+    },
+    {
+        "input": "Produce a five line haiku poem describing a sunset.",
+        "output": "色的天空,山脉的轮,鸟类飞快回家,"
+    },
+    {
+        "input": "Name a job that requires a lot of physical strength.",
+        "output": "建筑工作是需要很大的身体力量的工作."
+    },
+    {
+        "input": "Identify a food item that starts with the letter \"D\".",
+        "output": "一种以D字母开始的食物是甜甜圈."
+    },
+    {
+        "input": "Name three books written by J. K. Rowling.",
+        "output": "1.哈利·波特和哲学家之石 2.哈利·波特和秘密室 3.哈利·波特和阿兹卡班的囚犯"
+    },
+    {
+        "input": "Create an example sentence for the phrase 'baffle the audience'.",
+        "output": "演出期间,他做了一个令人难以置信的技巧,"
+    },
+    {
+        "input": "Name two brands from the automotive industry in the United States.",
+        "output": "美国汽车行业的两大流行品牌是福特和通用汽车 (通用汽车)."
+    },
+    {
+        "input": "Provide a sentence for the phrase \"learning curve\".",
+        "output": "\"新编程软件的学习曲线很,"
+    },
+    {
+        "input": "Rewrite this sentence in a positive way: \"I cannot do it\".",
+        "output": "\"我会找到一个方法来实现它\",或者\"我相信,如果我练习和投入,我会做到这一点."
+    },
+    {
+        "input": "Write a sentence for the idiom \"taken aback\".",
+        "output": "听到这个令人震惊的消息,我惊不已,不知道该怎么回应."
+    },
+    {
+        "input": "Name a popular movie from 2019.",
+        "output": "另一个热门电影是\"复仇者联盟:终结赛\"."
+    },
+    {
+        "input": "Come up with a slogan for an online diversity and inclusion training.",
+        "output": "通过在线多样性和包容性培训,"
+    },
+    {
+        "input": "Suggest an original and natural-sounding greeting for a chatbot.",
+        "output": "\"你好!我很高兴你今天来和我聊天.你在想什么?\""
+    },
+    {
+        "input": "Given a number of 5, identify an example of a prime number which is greater than 5.",
+        "output": "一个比5大于7的素数的例子是7."
+    },
+    {
+        "input": "Generate a random \"password\" that meets the following criteria: - 8 characters long - Must contain at least 1 letter and 1 number",
+        "output": "这里有一个满足上述标准的随机生成密码:J2n4X9tF`."
+    },
+    {
+        "input": "Let a⊕ b=3a+4b for all real numbers a and b. Find 3⊕ 1.",
+        "output": "我们有31=3*3+4*1=13."
+    },
+    {
+        "input": "Generate a list of five scientific terms starting with \"geo\"",
+        "output": "生物技术 1. 地质学 2. 地理学 3. 地理物理 4. 地热 5. 地化学"
+    },
+    {
+        "input": "Write a 3-line haiku poem about the stars.",
+        "output": "闪闪发光的珠宝,散布在墨水的天空中,"
+    },
+    {
+        "input": "Generate an English sentence containing the following words: \"window\", \"happy\", \"open\".",
+        "output": "\"打开窗户带来了一阵清新的风,让我感到非常幸福."
+    },
+    {
+        "input": "Find the missing number in the sequence: 3, 5, 7, __, 13",
+        "output": "序列中缺少的数字是9. 模式是将2加到前一个数字,"
+    },
+    {
+        "input": "Rewrite the following sentence making it as short as possible while still preserving its meaning:\n\nThe shirt he is wearing is very fashionable.",
+        "output": "他穿着时尚的衫."
+    },
+    {
+        "input": "Which major river runs through Egypt?",
+        "output": "通过埃及流过的主要河流是尼罗河."
+    },
+    {
+        "input": "Reword the following sentence in a simpler form: \"We have reached a point where we can no longer live in darkness\".",
+        "output": "我们不能再呆在黑暗中."
+    },
+    {
+        "input": "Edit the following sentence: \"The sun is late today.\"",
+        "output": "太阳似乎今天晚些时候升起了."
+    },
+    {
+        "input": "If 2^8=16^x, find x.",
+        "output": "我们可以写16为2^4.所以我们可以写我们的方程为2^8=2^4*x.解决,我们得到x=2."
+    },
+    {
+        "input": "Generate 5 similar words to \"gentleman\".",
+        "output": "1. 骑士 2. 礼貌 3. 勇敢 4. 优雅 5. 礼貌"
+    },
+    {
+        "input": "State the full name of the author of \"Alice's Adventures in Wonderland\".",
+        "output": "\"爱丽丝在奇迹之国\"的作者全名是查尔斯·卢特维奇·道奇森,更有名的 pseudonym是易斯·卡罗尔."
+    },
+    {
+        "input": "Find the first prime number that is greater than 50",
+        "output": "第一个大于50的素数是53."
+    },
+    {
+        "input": "Write a search query to find out the population of China",
+        "output": "\"中国的人口\""
+    },
+    {
+        "input": "Compose a three line poem using the phrase “the night sky.”",
+        "output": "黑夜天空广,星星覆盖着,无法隐藏,"
+    },
+    {
+        "input": "Generate a list of five new countries which could host the 2026 World Cup.",
+        "output": "1. 澳大利亚 2. 摩洛哥 3. 埃及 4. 加拿大 5. 瑞典"
+    },
+    {
+        "input": "Create an advertising slogan for a pet food company.",
+        "output": "养每一个脚和爪子, 养他们与我们的物食物!"
+    },
+    {
+        "input": "Find three synonyms for the following word: happy",
+        "output": "1. 快乐 2. 快乐 3. 满足"
+    },
+    {
+        "input": "Create a password for email that includes 8 characters.",
+        "output": "您的电子邮件密码可以是:m!@dP8Wx"
+    },
+    {
+        "input": "Identify the number of syllables in the word \"onomatopoeia\".",
+        "output": "字母\"体论\"有6个音节."
+    },
+    {
+        "input": "Create a limerick about cats.",
+        "output": "有一次,有一只戴着帽子的猫,主人认为他很胖,他,,没有说一句话,但花了他的一生在子上."
+    },
+    {
+        "input": "Generate a metaphor for the concept of identity.",
+        "output": "身份就像指纹,每个人都是独一无二的,"
+    },
+    {
+        "input": "Write an English haiku about snow.",
+        "output": "温柔的雪花落下, 着地球的静寂, 纯粹的冬天奇迹."
+    },
+    {
+        "input": "Identify the molecular formula for carbon dioxide.",
+        "output": "碳二氧化物的分子公式是二氧化碳."
+    },
+    {
+        "input": "Select the most suitable word to describe the following definition.\n\"A large group of people, animals, or things that are all similar in another way\"",
+        "output": "最适合描述这个定义的词是\"群体\"."
+    },
+    {
+        "input": "Generate five adjectives to describe the air in the room.",
+        "output": "1. 清爽 2. 凉爽 3. 脆 4. 活力 5. 清洁"
+    },
+    {
+        "input": "Use the word \"scrumptious\" in a sentence.",
+        "output": "果派是我祖母做的,非常美味."
+    },
+    {
+        "input": "Suppose you are writing a press release describing the features of a new product. Write the main headline.",
+        "output": "推出具有先进功能和无与伦比性能的革命性新产品!"
+    },
+    {
+        "input": "Classify the following items as either alive or non-living: rock, snail, tree.",
+        "output": "石头是无生命的,牛是活的,树是活的."
+    },
+    {
+        "input": "Generate a proverb about finding one's path in life.",
+        "output": "\"并非所有流浪者都是迷失的,"
+    },
+    {
+        "input": "Name three aquatic animals.",
+        "output": "1.海豚 2.章鱼 3.海马"
+    },
+    {
+        "input": "Generate a sentence that expresses optimism.",
+        "output": "\"即使在最黑暗的时刻, 总有一希望和一个新的机会等待在拐角处."
+    },
+    {
+        "input": "Evaluate the sentence \"She managed to win the race\"",
+        "output": "这句话描述了一个成功的结果, 对于主题\",她\", 谁能够通过个人努力,决心或技能赢得比赛."
+    },
+    {
+        "input": "Name the capital of India",
+        "output": "新德里是印度的首都."
+    },
+    {
+        "input": "List five common types of trees.",
+        "output": "1.树 2.树 3.松树 4.树 5.柳树"
+    },
+    {
+        "input": "Compose an original haiku about the sea.",
+        "output": "广而无的海洋,无休止的波浪在岸上,自然的交响乐."
+    },
+    {
+        "input": "If f(x) = 3x+2 and g(x) = (x-1)^2, what is f(g(-2))?",
+        "output": "我们有g(-2) = (-2-1) ^2 = 9,所以f(g(-2)) =f(9) =3(9) +2 =29."
+    },
+    {
+        "input": "Construct a proverb that encapsulates the concept of freedom.",
+        "output": "通过决心和勇气获得自由."
+    },
+    {
+        "input": "Come up with an antonym for the word \"conservative\".",
+        "output": "保守主义的反义词是\"进步主义\"."
+    },
+    {
+        "input": "Classify this sentence as positive, negative or neutral sentiment: \"I am so tired\".",
+        "output": "没有"
+    },
+    {
+        "input": "Rewrite this sentence to make it more descriptive: \"It was a nice day\".",
+        "output": "\"那天是美丽的一天,阳光烂,微风吹,天气周围都很好."
+    },
+    {
+        "input": "What is the most common word in English?",
+        "output": "美国人最常用的英语词是\"the\"."
+    },
+    {
+        "input": "Arrange this list of letters to make the longest English word possible: i, s, l, a, n.",
+        "output": "最长的英语单词可以由给定的字母组成是\"nails\"."
+    },
+    {
+        "input": "Provide an example of a four-letter word that rhymes with \"jeep\".",
+        "output": "\"深\"是一个四字母的词,与\"吉普车\"合."
+    },
+    {
+        "input": "Expand the product (9x+2)(4x^2+3).",
+        "output": "这就是为什么我们要把它当作一个小小的东西."
+    },
+    {
+        "input": "Generate a metaphor that describes a feeling of helplessness.",
+        "output": "感觉无助就像在暴风海中试图划船,的破了."
+    },
+    {
+        "input": "Create a question to assess someone's personality.",
+        "output": "在一个从1到10的比例上,你喜欢与他人共度时间多少?"
+    },
+    {
+        "input": "Give three alternatives for the word \"grand\".",
+        "output": "1. 华丽 2. 华丽 3. 令人印象深刻"
+    },
+    {
+        "input": "Name the popular fast-food chain whose logo is golden arches.",
+        "output": "热门的快餐连锁店,其标志是金色门,是麦当劳."
+    },
+    {
+        "input": "Calculate the sum of 5857 and 9224.",
+        "output": "总数为5857和9224是15081."
+    },
+    {
+        "input": "Generate 6 random unique numbers between 1 and 500.",
+        "output": "这里有6个1到500之间的随机唯一数字:1.367 2.42 3.495 4.229 5.311 6.19"
+    },
+    {
+        "input": "Generate a 3-line poem based on the following theme: 'Celebrating Nature'.",
+        "output": "天空得很高,鲜的颜色吻着天空,庆祝大自然及其无限的美丽."
+    },
+    {
+        "input": "Imagine you are in a restaurant and compose a sentence (using at least 3 words) that describes the taste of a dish.",
+        "output": "这道菜有味,有烟味,有点香料."
+    },
+    {
+        "input": "Change the following sentence using synonym replacement:\nThe puppy barked loudly.",
+        "output": "小狗着."
+    },
+    {
+        "input": "Name five types of drinks.",
+        "output": "当然!这里有五种类型的饮料: 1.水 2.苏打 3.咖啡 4.茶 5.果汁."
+    },
+    {
+        "input": "Rearrange the following words to make a grammatically correct sentence:\n\nEnglish my learn I",
+        "output": "我学习英语."
+    },
+    {
+        "input": "Create a slogan that represents the concept of Artificial Intelligence",
+        "output": "\"提高人类智力,一次一个算法."
+    },
+    {
+        "input": "Select a random element from the list [apple, oranges, pears, strawberries].",
+        "output": "果,子,梨,草等."
+    },
+    {
+        "input": "Categorize this sentence into a specific emotion: She felt left out of the group.",
+        "output": "具体的情感是悲伤."
+    },
+    {
+        "input": "Rewrite the following sentence: \"He was so tired, he fell asleep.\"",
+        "output": "他非常疲,因此睡了."
+    },
+    {
+        "input": "Write a creative sentence using the following three words: love, perseverance and adventure.",
+        "output": "\"真爱往往需要坚持,就像一个难以轻易地克服的冒险,"
+    },
+    {
+        "input": "Rewrite the following sentence using a different word: \"He shuffled his feet in shame.\"",
+        "output": "他尬地拖着脚."
+    },
+    {
+        "input": "Suggest a creative title for a story about a robot that dreams of being human.",
+        "output": "\"人类的梦想:机器人走向感觉\""
+    },
+    {
+        "input": "Factor the expression x(x+2)+(x+2).",
+        "output": "现在我们将把它放在一个单元中."
+    },
+    {
+        "input": "Factor the following expression: 145b^2 +29b.",
+        "output": "为了分解表达式145b^2 + 29b,我们可以从两个项中取出29b的最大共同因子,这给我们29b ((5b + 1)."
+    },
+    {
+        "input": "Come up with a title for a sci-fi book.",
+        "output": "关于\"最后一个地球人\"的纪录"
+    },
+    {
+        "input": "Write a haiku poem of a serene beach.",
+        "output": "波浪吻着海岸线,柔软的微风,我的脚之间有沙子,和平的海逃跑."
+    },
+    {
+        "input": "Translate \"My name is John\" into French.",
+        "output": "我的名字是约翰."
+    },
+    {
+        "input": "Create a slogan to promote a new computer game.",
+        "output": "进入新的世界, 克服我们的最新电脑游戏的挑战!"
+    },
+    {
+        "input": "Generate a new sentence using the words 'visit' and 'beach'.",
+        "output": "我迫不及待地想去夏天去海,感觉到脚之间的沙子."
+    },
+    {
+        "input": "How many continents are there on Earth?",
+        "output": "地球上有七个大陆.这些是:亚洲,非洲,北美,南美,南极洲,欧洲和澳大利亚."
+    },
+    {
+        "input": "Generate a query for an online search engine.",
+        "output": "\"什么是最有效的家庭治疗皮肤皮疹?\""
+    },
+    {
+        "input": "Name a country in North America.",
+        "output": "美国是北美的一个国家."
+    },
+    {
+        "input": "What is the scientific name of the honey bee?",
+        "output": "蜂蜜的科学名称是蜜蜂."
+    },
+    {
+        "input": "Convert the sentence “I should have done it” into a sentence expressing regret.",
+        "output": "\"我很遗憾没有这样做."
+    },
+    {
+        "input": "In three words, describe the taste of bitter chocolate.",
+        "output": "强烈,敏,缩."
+    },
+    {
+        "input": "Select the correct spelling of the word \"necessary\".",
+        "output": "这句话的正确拼写是\"必要\"."
+    },
+    {
+        "input": "Guess the next line of this poem: “The sun shineth bright and the sky is blue, __”",
+        "output": "\"鸟儿在一天开始时,都会唱出甜蜜的歌声."
+    },
+    {
+        "input": "Come up with a slogan for a local conservation charity.",
+        "output": "\"保护我们的家园, 一次行动: 今天加入保护运动!\""
+    },
+    {
+        "input": "Describe the plot of dune with emojis.",
+        "output": "️🏻🔥"
+    },
+    {
+        "input": "Rewrite the following sentence to make it more concise: “People should be aware of the negative impact of single-use plastics on the environment.”",
+        "output": "警一次性塑料对环境的危害."
+    },
+    {
+        "input": "Generate a one sentence prospect for a novel about a virus outbreak.",
+        "output": "一位坚定决心的科学家在致命病毒爆发后, 竞争时间,"
+    },
+    {
+        "input": "Construct a sentence with the following words: personification, monochrome",
+        "output": "艺术家在单色画中使用人格化,"
+    },
+    {
+        "input": "Generate a song title that has a dance vibe.",
+        "output": "\"动你的身体 - - 一首舞蹈歌曲\""
+    },
+    {
+        "input": "Generate a new hook for a pop song",
+        "output": "\"我们心跳得一样,我们跳舞到夜里,直到我们看到太阳."
+    },
+    {
+        "input": "What is the full form of CPU?",
+        "output": "CPU的完整形式是中央处理单元."
+    },
+    {
+        "input": "Guess what is the opposite meaning of the word \"obscure\".",
+        "output": "对于\"暗\"这个词,相反的意思是\"明确\"或\"明显\"."
+    },
+    {
+        "input": "Generate a question about frogs.",
+        "output": "一只成年青的平均长度是多少?"
+    },
+    {
+        "input": "Name a famous artist from the Renaissance period.",
+        "output": "文艺复兴时期的一个著名艺术家是莱昂纳多·达·芬奇."
+    },
+    {
+        "input": "Classify the following sentence as a statement or a question.\n\nHumans are mammals.",
+        "output": "\"人类是哺乳动物\"是一个陈述."
+    },
+    {
+        "input": "Edit the following sentence to make it more accurate:\n\nHumans have been using technology for centuries",
+        "output": "人类已经使用技术了数千年."
+    },
+    {
+        "input": "Create an English proverb that begins with the words \"A stitch in time\".",
+        "output": "及时接可以拯救九个."
+    },
+    {
+        "input": "What is the original title of the 1977 movie Star Wars?",
+        "output": "1977年电影\"星球大战\"的原标题是\"星球大战:第四集\""
+    },
+    {
+        "input": "Create a math equation that equals to 10.",
+        "output": "一个可能的方程是: 5 + 5 = 10."
+    },
+    {
+        "input": "What type of creature is a kangaroo?",
+        "output": "袋鼠是一种哺乳动物,主要生活在澳大利亚及其周边岛屿."
+    },
+    {
+        "input": "Generate a sentence with the words \"carrot\" and \"telephone\".",
+        "output": "\"当我接电话时,我的朋友告诉我她的一道新食谱,其中主要成分是胡卜."
+    },
+    {
+        "input": "Subtract \"83\" from \"140\".",
+        "output": "减去83从140的结果是57."
+    },
+    {
+        "input": "Come up with a list of five items related to a camping trip.",
+        "output": "1.帐 2.睡袋 3.手电筒 4.露营炉 5.食物和饮料的冷却器"
+    },
+    {
+        "input": "Come up with a sentence that includes an adverb of frequency.",
+        "output": "我通常每天早上7点吃早餐."
+    },
+    {
+        "input": "Provide me with an example sentence that uses the verb 'to waver'.",
+        "output": "\"尽管遇到许多困难,但她决心实现目标."
+    },
+    {
+        "input": "Edit the following sentence to make it more formal: \n\"You're my favorite assistant.\"",
+        "output": "\"你是我最喜欢的助理."
+    },
+    {
+        "input": "Compose a haiku about diversity and inclusion.",
+        "output": "许多不同的色彩, 融合在和和力量中,"
+    },
+    {
+        "input": "Compose a haiku about the wonders of technology.",
+        "output": "无声电路 - - 一个充满奇迹的世界."
+    },
+    {
+        "input": "Generate a unique random number between 0 and 1.",
+        "output": "这里是一个在0到1之间唯一的随机数:0.8398753610272354"
+    },
+    {
+        "input": "List 5 computer programming languages",
+        "output": "首先是python,第二是java,第三是c++,第四是javascript,五是c#"
+    },
+    {
+        "input": "Generate a list of 3 names for a fictional character.",
+        "output": "艾登·斯通,伊莎多拉·布莱克伍德,贾斯珀·霍桑."
+    },
+    {
+        "input": "Generate a creative title for a podcast episode.",
+        "output": "\"超越极限:释放心灵的力量\""
+    },
+    {
+        "input": "Name the colors of the rainbow.",
+        "output": "彩虹的颜色通常按下列顺序列出:红色,色,黄色,绿色,蓝色,红色和紫色."
+    },
+    {
+        "input": "Name five animals that live in the Arctic.",
+        "output": "冰熊2.北极狐3.海4.子5.北极."
+    },
+    {
+        "input": "Translate the phrase \"bon voyage\" into Spanish.",
+        "output": "在西班牙语中\",好旅行\"可以翻译为\"好旅行\"."
+    },
+    {
+        "input": "Identify if the following statement is true or false: The Panama Canal is a very short canal.",
+        "output": "\"巴拿马运河是一个非常短的运河\"是错误的."
+    },
+    {
+        "input": "Ask a question about consumer rights",
+        "output": "您能详细说明法律保护哪些特定的消费者权利以及如何执行这些权利吗?"
+    },
+    {
+        "input": "Generate an anti-bullying slogan.",
+        "output": "\"善良总是流行:拒绝欺凌!\""
+    },
+    {
+        "input": "Generate an intriguing headline for a blog post on artificial intelligence.",
+        "output": "\"发现人工智能的无限潜力:今天释放未来\""
+    },
+    {
+        "input": "Look for a synonym for the word \"greatness\".",
+        "output": "\"伟大\"的意思是\"伟大\"."
+    },
+    {
+        "input": "Generate a four-word motto with the words \"power\", \"courage\", \"dream\" and \"hope\".",
+        "output": "\"希望带来的勇气梦想!\""
+    },
+    {
+        "input": "Generate a headline for an article about a climate crisis.",
+        "output": "\"气候危机:全球行动和变革的紧急呼吁\""
+    },
+    {
+        "input": "Generate a name for a fantasy creature",
+        "output": "树"
+    },
+    {
+        "input": "Provide three adjectives to describe the color blue",
+        "output": "让人冷静,冷静,平静"
+    },
+    {
+        "input": "List six culinary herbs",
+        "output": "香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,香,"
+    },
+    {
+        "input": "How do you say \"Thank you\" in Japanese?",
+        "output": "在日本语中\",谢谢\"是用\"ありがとう\" () 形式表达的.更礼貌的方式是\"ありがとう\" ()."
+    }
+]

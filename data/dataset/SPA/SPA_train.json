@@ -1,0 +1,1998 @@
+[
+    {
+        "input": "What is the capital of France?",
+        "output": "La capital de Francia es París."
+    },
+    {
+        "input": "Generate three verbs that mean the same as \"to apologize\"",
+        "output": "1. expresar arrepentimiento 2. expiar 3. hacer las paces"
+    },
+    {
+        "input": "Look up the boiling point of water.",
+        "output": "El punto de ebullición del agua es de 100 grados centígrados o 212 grados Fahrenheit a presión atmosférica estándar."
+    },
+    {
+        "input": "Identify the lines of longitude that divides North and South America.",
+        "output": "La línea de longitud que divide América del Norte y del Sur es el 77° 00' 0\" o 77° O que también se conoce como la frontera Panamá-Colombia."
+    },
+    {
+        "input": "Name two types of desert biomes.",
+        "output": "Dos tipos de biomas del desierto son el desierto caliente y seco y el desierto frío."
+    },
+    {
+        "input": "Find the capital of Spain.",
+        "output": "La capital de España es Madrid."
+    },
+    {
+        "input": "Think of a phrase or idiom containing the word \"sleep\".",
+        "output": "\"No pierdas el sueño por eso\". Esta frase significa no preocuparte demasiado o preocuparte demasiado por algo."
+    },
+    {
+        "input": "Compose a five word sentence describing your day.",
+        "output": "Siempre estoy ayudando a los usuarios."
+    },
+    {
+        "input": "Compile a list of 5 US states located in the Mid West.",
+        "output": "1. Ohio 2. Indiana 3. Michigan 4. Illinois 5. Wisconsin. El estado de Ohio es el más grande de los Estados Unidos."
+    },
+    {
+        "input": "Hans went to a pet shop. He bought 15 gold fish and 7 blue fish. How many fish did he buy? Think step-by-step.",
+        "output": "Sumamos 15 a 7 y obtenemos 22. Así que Hans compró 22 peces en la tienda de mascotas."
+    },
+    {
+        "input": "Create a survey question to measure customer satisfaction",
+        "output": "En una escala de 1 a 10, ¿qué tan satisfecho estaba con los productos o servicios que recibió de nuestra empresa?"
+    },
+    {
+        "input": "Create a list of 10 different animals",
+        "output": "1. el león 2. el elefante 3. el panda 4. la jirafa 5. el delfín 6. el canguro 7. el tigre 8. el gorila 9. el camello 10. la cebra"
+    },
+    {
+        "input": "What geometric shape has 5 sides and 5 angles?",
+        "output": "La forma geométrica que tiene 5 lados y 5 ángulos se llama pentágono."
+    },
+    {
+        "input": "What is the contraction of \"they are\"?",
+        "output": "La contracción de \"ellos son\" es \"ellos son\"."
+    },
+    {
+        "input": "Generate a sentence that follows the structure of: \"All ____ is based on/with _____\"",
+        "output": "Todos los descubrimientos científicos se basan en pruebas y experimentación."
+    },
+    {
+        "input": "Generate a haiku poem.",
+        "output": "Hojas carmesí caídas, suspirando suavemente en la brisa, la tranquila paz de la naturaleza."
+    },
+    {
+        "input": "Name three fruits that are rich in Vitamin C.",
+        "output": "Tres frutas que son ricas en vitamina C son las naranjas, los kiwis y las fresas."
+    },
+    {
+        "input": "Suggest a powerful quote.",
+        "output": "\"Sé el cambio que deseas ver en el mundo\" (Mahatma Gandhi)"
+    },
+    {
+        "input": "Name the three main mountain ranges in the United States.",
+        "output": "Las tres cadenas montañosas principales de los Estados Unidos son las Montañas Rocosas, los Apalaches y las Montañas Sierra Nevada."
+    },
+    {
+        "input": "Construct a sentence using the phrase \"every day\".",
+        "output": "Me esfuerzo por facilitar la vida de mis usuarios cada día proporcionándoles información relevante y realizando tareas para ellos."
+    },
+    {
+        "input": "Find a rhyming word for the word \"river\".",
+        "output": "Una palabra que rima con \"río\" podría ser \"trémulo\"."
+    },
+    {
+        "input": "What is the scientific name for a beaver?",
+        "output": "El nombre científico del castor de América del Norte es Castor canadensis, mientras que el nombre científico del castor de Eurasia es fibra de castor."
+    },
+    {
+        "input": "Supply a phrase to complete this proverb: \"It's better to be safe than ____.\"",
+        "output": "Es mejor estar seguro que arrepentido."
+    },
+    {
+        "input": "Generate a sentence in Spanish that describes the natural beauty of Barcelona.",
+        "output": "La belleza natural de Barcelona es impresionante, con sus playas de arena dorada, montañas verdes y impresionantes vistas al Mediterráneo."
+    },
+    {
+        "input": "Compose a haiku about cats",
+        "output": "Amigo suave ronroneando, bigotes suaves, ojos como lunas brillantes, gracia en forma felina."
+    },
+    {
+        "input": "Find the distance between the vertices of the hyperbola\n\n (x^2)/99 - (y^2)/36 = 1.\n",
+        "output": "Leemos que a^2 = 99, por lo que a = sqrt(99) = 3 sqrt(11). Por lo tanto, la distancia entre los vértices es 2a = 6 sqrt(11 ."
+    },
+    {
+        "input": "Come up with a creative metaphor for smile",
+        "output": "\"Una sonrisa es un rayo de luz solar que atraviesa las nubes, ilumina el rostro y calienta el corazón de los que la rodean\"."
+    },
+    {
+        "input": "What is the least common multiple of 3, 4, 6 and 15?",
+        "output": "Para encontrar el LCM de 3, 4=2^2, 6=2*3, y 15=3*5, tome la potencia más alta de cada primo que aparece y multiplique: 2^2*3*5=60."
+    },
+    {
+        "input": "Generate a random password of 6 characters in length using only capital letters and numbers.",
+        "output": "Aquí hay una contraseña al azar que cumple con los criterios: `A3J6K9`"
+    },
+    {
+        "input": "Given a set of eight numbers (1,2, 3, 4, 5, 6, 7, 8), generate a sentence that reflects their order.",
+        "output": "En orden ascendente, los números están dispuestos de la siguiente manera: 1, 2, 3, 4, 5, 6, 7 y finalmente 8."
+    },
+    {
+        "input": "Create a sentence that ends with an ellipsis.",
+        "output": "Se fue lentamente, dejándome preguntándome qué podría haber sido..."
+    },
+    {
+        "input": "Generate a creative name for a restaurant serving Mexican cuisine.",
+        "output": "\"La especia mágica de Maya\""
+    },
+    {
+        "input": "Generate a slogan for a clothing brand.",
+        "output": "\"Despliega tu estilo con nuestros hilos\"."
+    },
+    {
+        "input": "Name three natural elements.",
+        "output": "1. el oxígeno 2. el hidrógeno 3. el nitrógeno"
+    },
+    {
+        "input": "Generate 10 rhyming words for the word \"love\".",
+        "output": "1. Paloma 2. Guante 3. Por encima 4. Empuje 5. Estregue 6. Teje 7. En la parte superior 8."
+    },
+    {
+        "input": "Come up with a social media campaign slogan.",
+        "output": "\"Vamos a conectar el mundo, un post a la vez\"."
+    },
+    {
+        "input": "Name a planet from our solar system.",
+        "output": "Un planeta de nuestro sistema solar es Júpiter."
+    },
+    {
+        "input": "Come up with a creative tagline for a beauty product.",
+        "output": "\"Libera tu brillo interior con nuestros elementos esenciales de belleza\"."
+    },
+    {
+        "input": "Generate a memorable quote from Albert Einstein.",
+        "output": "\"No trate de convertirse en un hombre de éxito, sino más bien trate de convertirse en un hombre de valor\" (Albert Einstein)"
+    },
+    {
+        "input": "Transform the following sentence using the past perfect tense: Yesterday they opened the door.",
+        "output": "Ayer habían abierto la puerta."
+    },
+    {
+        "input": "Complete the following analogy: Loud is to quiet as day is to",
+        "output": "Noche."
+    },
+    {
+        "input": "Create an example of alliteration.",
+        "output": "La tonta Sally se llevó rápidamente siete ovejas."
+    },
+    {
+        "input": "Classify the following words by their grammatical categories: walk, interesting, quickly",
+        "output": "Caminar: Verbo interesante: Adjetivo Rápido: Adverbio"
+    },
+    {
+        "input": "Come up with a riddle",
+        "output": "¿Qué empieza con una E, termina con una E, pero sólo contiene una letra?"
+    },
+    {
+        "input": "Identify the conjugation of the verb: I will have helped",
+        "output": "La frase del verbo \"habrá ayudado\" es en tiempo futuro perfecto, conjugado en primera persona del singular."
+    },
+    {
+        "input": "Rewrite the sentence into more descriptive form:\nThe food was delicious.",
+        "output": "La comida era absolutamente deliciosa, con una mezcla tentadora de sabores que dejaban mis papilas gustativas bailando de alegría."
+    },
+    {
+        "input": "Name 5 emotional states",
+        "output": "1. la felicidad 2. la tristeza 3. la ira 4. el miedo 5. el amor"
+    },
+    {
+        "input": "Create a funny one-liner.",
+        "output": "\"Le dije a mi esposa que estaba dibujando sus cejas demasiado alto."
+    },
+    {
+        "input": "Select the correct term for the phrase ‘the art of making things’",
+        "output": "El término correcto para la frase 'el arte de hacer cosas' es artesanía."
+    },
+    {
+        "input": "Come up with a slogan to describe a new lipstick product.",
+        "output": "\"Delibe su belleza interior con nuestro vibrante, lápiz labial duradero!\""
+    },
+    {
+        "input": "Generate a list of five elements for a grocery shopping list",
+        "output": "1. leche 2. huevos 3. pan 4. manzanas 5. espinacas"
+    },
+    {
+        "input": "What is the value of (x - y)(x + y) if x = 10 and y = 15?",
+        "output": "(x-y) ((x + y) = (10-15) ((10 + 15) = (-5) ((25) = -125."
+    },
+    {
+        "input": "Write a haiku about the ocean.",
+        "output": "Suaves olas del océano, infinitamente acariciando la orilla, una canción de cuna pacífica."
+    },
+    {
+        "input": "Name three government positions in the United States.",
+        "output": "1. Presidente de los Estados Unidos 2. Vicepresidente de los Estados Unidos 3. Presidente de la Cámara de Representantes de los Estados Unidos"
+    },
+    {
+        "input": "Name 3 countries that border France.",
+        "output": "Tres países que limitan con Francia son Bélgica, Alemania y España."
+    },
+    {
+        "input": "Provide an example of an antonym for the word “happy”",
+        "output": "Un ejemplo de antónimo para la palabra \"feliz\" es \"triste\"."
+    },
+    {
+        "input": "Make a list of four styles of furniture.",
+        "output": "1. moderno 2. tradicional 3. rústico 4. contemporáneo"
+    },
+    {
+        "input": "Edit the following sentence to eliminate any grammar errors: They tried to fix the car all day.",
+        "output": "Intentaron arreglar el coche todo el día. (La oración ya es gramaticalmente correcta.)"
+    },
+    {
+        "input": "Write a humorous joke.",
+        "output": "¿Por qué los científicos no confían en los átomos?"
+    },
+    {
+        "input": "List 5 different fruit",
+        "output": "1. manzana 2. plátano 3. naranja 4. piña 5. mango"
+    },
+    {
+        "input": "Rewrite the following sentence:\n\n\"The candidate is a highly motivated individual\"",
+        "output": "El individuo posee altos niveles de motivación como candidato."
+    },
+    {
+        "input": "Shape the following sentence into a question:\n\nThe Houston Rockets are an American professional basketball team",
+        "output": "¿Son los Houston Rockets un equipo profesional de baloncesto estadounidense?"
+    },
+    {
+        "input": "Fill in the blank with a word or phrase\n\nThe most successful team in the NBA is the ____",
+        "output": "El equipo más exitoso de la NBA es el Boston Celtics."
+    },
+    {
+        "input": "Generate 2 sentence of a conversation that takes place between the manager and the customer.",
+        "output": "Gerente: Buenas tardes, ¿cómo puedo ayudarle hoy?Cliente: Hola, me gustaría devolver un artículo que compré, pero no tengo el recibo conmigo."
+    },
+    {
+        "input": "Take two words and create a completely new word by combining them.",
+        "output": "La primera palabra es \"eléctrico\" la segunda palabra es \"mágico\" la nueva palabra es \"eléctrico\""
+    },
+    {
+        "input": "Make a list of the eight planets in our solar system",
+        "output": "1. Mercurio 2. Venus 3. Tierra 4. Marte 5. Júpiter 6. Saturno 7. Urano 8. Neptuno"
+    },
+    {
+        "input": "What is the chemical formula for water?",
+        "output": "La fórmula química del agua es H2O. Está compuesta de dos átomos de hidrógeno y un átomo de oxígeno."
+    },
+    {
+        "input": "Construct a web address for a book recommendation website.",
+        "output": "Una posible dirección web para un sitio web de recomendación de libros podría ser `www.bookrecommendations.com`."
+    },
+    {
+        "input": "Generate a sentence that uses the word ‘zephyr’",
+        "output": "El suave zéfiro se podía sentir en mis mejillas mientras estaba de pie en la colina, admirando la impresionante belleza de la puesta de sol."
+    },
+    {
+        "input": "Come up with a name for this new product.",
+        "output": "Un posible nombre para este nuevo producto podría ser \"PrimeLife\"."
+    },
+    {
+        "input": "Translate the phrase \"I love you\" into Spanish.",
+        "output": "La frase \"te amo\" traducida al español es \"Te quiero\" o \"Te amo\"."
+    },
+    {
+        "input": "Construct a sentence using the present tense of the verb \"eat\".",
+        "output": "Yo como un desayuno saludable todas las mañanas."
+    },
+    {
+        "input": "Generate a list of 10 adjectives that describe the color blue.",
+        "output": "1. Tranquilo 2. Tranquilo 3. Sereno 4. Tranquilizador 5. Refrescante 6. Frío 7. Oceánico 8. Profundo 9. Brillante 10. Vibrante"
+    },
+    {
+        "input": "Convert 28 cm to inches.",
+        "output": "28 cm es equivalente a alrededor de 11.02 pulgadas."
+    },
+    {
+        "input": "Spell the word \"xylophone\".",
+        "output": "¿ Qué es eso ?"
+    },
+    {
+        "input": "Give me a synonym for the word 'love'.",
+        "output": "El afecto."
+    },
+    {
+        "input": "Name two characters in the novel Moby Dick.",
+        "output": "Dos personajes de la novela Moby Dick son el capitán Ahab e Ismael."
+    },
+    {
+        "input": "Rewrite the following sentence in a more formal way:\n\n\"I want to learn about this new app.\"",
+        "output": "Deseo adquirir conocimiento sobre esta aplicación novedosa."
+    },
+    {
+        "input": "Generate a funny joke.",
+        "output": "¿Por qué los científicos no confían en los átomos?"
+    },
+    {
+        "input": "Compose a tagline for a mobile game about cooking.",
+        "output": "¡Pon una tormenta en la cocina con nuestro juego de cocina móvil!\""
+    },
+    {
+        "input": "Create a question about the consequences of global warming.",
+        "output": "¿Cuáles son algunos de los posibles impactos y consecuencias del calentamiento global en nuestro planeta y sus habitantes?"
+    },
+    {
+        "input": "Identify what type of sentence this is: My dog is cuddly and cute.",
+        "output": "Esta es una oración declarativa, que hace una declaración y transmite información."
+    },
+    {
+        "input": "Rewrite the following sentence using a synonym for the word \"impact\": The impact of the pandemic has been devastating.",
+        "output": "El efecto de la pandemia ha sido devastador."
+    },
+    {
+        "input": "Name three famous figures who were contemporaries of Galileo Galilei.",
+        "output": "Tres personajes famosos que fueron contemporáneos de Galileo Galilei fueron Johann Kepler, William Shakespeare y René Descartes."
+    },
+    {
+        "input": "What grade did you get in your English class?",
+        "output": "Como IA, soy un modelo de lenguaje y no tomo clases ni recibo calificaciones. ¿Hay algo más en lo que pueda ayudarle?"
+    },
+    {
+        "input": "Generate a random password of length 10",
+        "output": "Aquí hay una contraseña generada al azar que tiene 10 caracteres de largo: gsL2E#n*9X"
+    },
+    {
+        "input": "List the names of four social media platforms.",
+        "output": "1. Facebook 2. Twitter 3. Instagram 4. y también en LinkedIn."
+    },
+    {
+        "input": "Give a creative title for an article about the use of AI in travel.",
+        "output": "\"Viajar con IA: Mejorar su experiencia de viaje a través de la inteligencia artificial\""
+    },
+    {
+        "input": "Write a Haiku poem about a sunset.",
+        "output": "La luz dorada se desvanece lentamente, el horizonte se derrite en tonos, el atardecer se despide."
+    },
+    {
+        "input": "Generate a headline for a news article about the rising cost of healthcare.",
+        "output": "\"El aumento vertiginoso de los costos de atención médica: una preocupación creciente para millones de familias\""
+    },
+    {
+        "input": "Sort the following numbers in ascending order: 12, 26, 83, 19.",
+        "output": "Claro, los números en orden ascendente serían: 12, 19, 26, 83."
+    },
+    {
+        "input": "Generate a catchy slogan for a new restaurant.",
+        "output": "\"Dase el sabor de la nueva delicia de nuestro barrio!\""
+    },
+    {
+        "input": "Create a hashtag for a new marketing campaign.",
+        "output": "# Libera tu potencial"
+    },
+    {
+        "input": "Rewrite this sentence so it’s less verbose: “The supervisor was incapable of overseeing the entire project, so she was relieved of her duties”",
+        "output": "La supervisora no podía manejar el proyecto y fue retirada de sus funciones."
+    },
+    {
+        "input": "Find out the CEO of IBM",
+        "output": "A partir del 1 de junio de 2021, el actual CEO y presidente de IBM (International Business Machines Corporation) es Arvind Krishna."
+    },
+    {
+        "input": "Given this sentence, predict the part of speech of the word “groomed”\n\nHe groomed the puppy until it was perfectly clean",
+        "output": "La palabra \"acostumbrado\" en esta oración es un verbo."
+    },
+    {
+        "input": "List 5 things that can be bought at a grocery store",
+        "output": "1. frutas y verduras 2. pan y productos de panadería 3. carne y aves de corral 4. aperitivos y confitería 5. bebidas y bebidas."
+    },
+    {
+        "input": "Create a headline for an article about the top 5 trends in digital marketing",
+        "output": "\"Revolucionando el juego: las 5 principales tendencias en marketing digital para 2021\""
+    },
+    {
+        "input": "Generate a 10 word list of descriptive words for loneliness.",
+        "output": "1. aislados 2. desolados 3. separados 4. solitarios 5. solos 6. abandonados 7. abandonados 8. remotos 9. deshabitados 10. aislados"
+    },
+    {
+        "input": "What type of number is -625?",
+        "output": "-625 es un número entero."
+    },
+    {
+        "input": "Identify the type of sentence \"I drove to the store yesterday\".",
+        "output": "\"Ayer fui a la tienda\" es una frase declarativa porque hace una declaración y proporciona información en forma de hecho o afirmación."
+    },
+    {
+        "input": "Edit the following sentence to make it more concise: \"The cat was sitting on the fence and meowing loudly\".",
+        "output": "\"El gato miagaba fuerte en la cerca\"."
+    },
+    {
+        "input": "Print all the prime numbers between 1 and 50.",
+        "output": "Aquí están todos los números primos entre 1 y 50: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47."
+    },
+    {
+        "input": "Arrange the following words to make a meaningful sentence: selling do investors to advice trust.",
+        "output": "¿Confian los inversores en los consejos para vender?"
+    },
+    {
+        "input": "Split the following sentence into two declarative sentences: \"The food was delicious and the service was excellent\".",
+        "output": "1. La comida era deliciosa. 2. El servicio era excelente."
+    },
+    {
+        "input": "Name the 6 most populous cities in China.",
+        "output": "Las 6 ciudades más pobladas de China son: 1. Shanghai 2. Beijing 3. Chongqing 4. Tianjin 5. Guangzhou 6. Shenzhen."
+    },
+    {
+        "input": "Find the square root of 156.",
+        "output": "Entendido, la raíz cuadrada de 156 es 12.489996."
+    },
+    {
+        "input": "What is the result of 12/3?",
+        "output": "El resultado de 12/3 es 4."
+    },
+    {
+        "input": "Find a synonym for the word 'start'.",
+        "output": "Un sinónimo de la palabra 'comenzar' podría ser \"comenzar\", \"comenzar\", o \"iniciar\"."
+    },
+    {
+        "input": "Name a famous Italian singer.",
+        "output": "Un cantante italiano famoso es Andrea Bocelli."
+    },
+    {
+        "input": "Change the sentence \"It wasn't supposed to be like this\" into a declarative sentence.",
+        "output": "Se suponía que iba a ser diferente."
+    },
+    {
+        "input": "Create a unique instance of the word \"beauty\" using a simile.",
+        "output": "La belleza es como una mariposa, elegante y fugaz, cautivando a todos los que presencian su presencia suave."
+    },
+    {
+        "input": "Translate \"Bonjour\" into English.",
+        "output": "\"Bonjour\" en inglés se traduce como \"Hola\" o \"Buenos días\"."
+    },
+    {
+        "input": "Rewrite the sentence: \"The piece was written in a poetic form\"",
+        "output": "La composición fue hecha en el estilo de la poesía."
+    },
+    {
+        "input": "Write a sentence containing a hyperbolic metaphor.",
+        "output": "Tenía tanta hambre que podría comerse un elefante entero."
+    },
+    {
+        "input": "Output the synonyms of the word \"opportunity\"",
+        "output": "- oportunidad - perspectiva - posibilidad - apertura - ocasión - opción - descanso - disparo - tiempo - momento - ventana - avenida - giro - suerte - alternativa"
+    },
+    {
+        "input": "Provide an example of a complex adverb",
+        "output": "\"Inadvertidamente\" es un ejemplo de un adverbio complejo, que significa sin intención o accidentalmente."
+    },
+    {
+        "input": "Name three countries that are located in Asia.",
+        "output": "Tres países que se encuentran en Asia son China, Japón e India."
+    },
+    {
+        "input": "Assign two values to the following variables: x=2, y=3",
+        "output": "Claro, x y y ahora se han asignado valores de 2 y 3 respectivamente."
+    },
+    {
+        "input": "Name three major rivers in South America.",
+        "output": "1. el río Amazonas 2. el río Paraná 3. el río Orinoco."
+    },
+    {
+        "input": "Identify the hypernym for the word \"dairy\".",
+        "output": "El hipernimo de la palabra \"lechería\" es \"comida\"."
+    },
+    {
+        "input": "Construct a sentence using the words \"oppress\", \"deserve\" and \"equality\".",
+        "output": "Nadie merece ser oprimido y todos deben ser tratados con igualdad."
+    },
+    {
+        "input": "Name five animals found in the rainforest.",
+        "output": "1. jaguar 2. mono araña 3. toucán 4. rana de dardos venenosos 5. anaconda verde."
+    },
+    {
+        "input": "Suggest a title for an article about ransomware attacks.",
+        "output": "\"Amenazas crecientes: comprender y combatir los ataques de ransomware\""
+    },
+    {
+        "input": "Generate a list of 8 social media platforms.",
+        "output": "1. Facebook 2. Twitter 3. Instagram 4. LinkedIn 5. YouTube 6. Snapchat 7. Pinterest 8. TikTok. El contenido de las redes sociales es muy similar a la información de las redes sociales."
+    },
+    {
+        "input": "Calculate the product of 5 and 3.",
+        "output": "El producto de 5 y 3 es 15."
+    },
+    {
+        "input": "Generate a question with the keyword “fungi”",
+        "output": "¿Qué papel desempeñan los hongos en el ecosistema y cómo interactúan con otros organismos?"
+    },
+    {
+        "input": "How many states are there in the United States?",
+        "output": "Hay 50 estados en los Estados Unidos."
+    },
+    {
+        "input": "Provide a list containing five adjectives to describe an elephant.",
+        "output": "1. majestuoso 2. enorme 3. inteligente 4. amable 5. poderoso."
+    },
+    {
+        "input": "Could you create a subject + verb + object structure using the words bicycle and floating?",
+        "output": "La bicicleta está flotando sobre el agua."
+    },
+    {
+        "input": "Generate a five-word phrase using the words apple, blueberry and pear.",
+        "output": "\"Malla, pera, fusión de arándanos delicia\"."
+    },
+    {
+        "input": "Create a complex mathematical expression in notation.",
+        "output": "$ \\gig \\int_a^b\\frac{x^3 - \\sqrt{x^2 + \\sin(x)}}{\\log_e(3x+2)}\\,dx + \\sum\\limits_{n=1}^{\\infty}\\frac{1}{n^2} $"
+    },
+    {
+        "input": "Describe the color yellow in 3 words.",
+        "output": "Brillante, alegre, cálido."
+    },
+    {
+        "input": "Write a five-word sentence using the words \"happy\", \"content\", and \"dream\".",
+        "output": "Una vida feliz, satisfecha, de sueños cumplidos."
+    },
+    {
+        "input": "Generate a marketing slogan for a car company.",
+        "output": "\"Conduzca hacia sus sueños con nuestros coches\""
+    },
+    {
+        "input": "Name three elements in the periodic table.",
+        "output": "Aquí hay tres elementos en la tabla periódica: 1. Hidrógeno (H) 2. Oxígeno (O) 3. Hierro (Fe)"
+    },
+    {
+        "input": "Name a popular amusement park in Europe",
+        "output": "Uno de los parques de atracciones más populares de Europa es el EuroDisney, también conocido como Disneyland Paris, ubicado en Marne-la-Vallée, Francia."
+    },
+    {
+        "input": "List three Mediterranean countries",
+        "output": "1. Grecia 2. Italia 3. España"
+    },
+    {
+        "input": "Convert 20 inches to centimetres",
+        "output": "20 pulgadas es igual a 50,8 centímetros."
+    },
+    {
+        "input": "Generate a list of 5 creative and inspiring usernames.",
+        "output": "1. BrightMuse 2. ArtfulDreamer 3. InspiredSoul 4. SunlitWords 5. CreativeVortex. Es una herramienta de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de diseño de dise"
+    },
+    {
+        "input": "Make a list of five musical genres from the 1990s.",
+        "output": "1. el grunge 2. el rock alternativo 3. el hip-hop 4. el R&B 5. el Britpop"
+    },
+    {
+        "input": "Provide 3 examples of hyperboles",
+        "output": "1. Tengo tanta hambre que podría comerme un caballo. 2. Corre tan rápido que podría vencer a Usain Bolt. 3."
+    },
+    {
+        "input": "Make up a sentence using the words \"various\" and \"scrutiny\"",
+        "output": "Después de que la compañía fue expuesta por prácticas poco éticas, fue objeto de diversas formas de escrutinio por parte del público y las agencias reguladoras."
+    },
+    {
+        "input": "Name five countries in Africa",
+        "output": "1. Nigeria 2. Egipto 3. Sudáfrica 4. Kenia 5. Ghana"
+    },
+    {
+        "input": "Generate a past-tense verb that describes a person driving a car.",
+        "output": "- Fue a conducir."
+    },
+    {
+        "input": "Name 3 different animals that are active during the night.",
+        "output": "1. las lechuzas 2. los murciélagos 3. los mapaches"
+    },
+    {
+        "input": "Name 5 oceans from largest to smallest.",
+        "output": "Claro, los cinco océanos, desde el más grande hasta el más pequeño, son: 1. el Océano Pacífico 2. el Océano Atlántico 3. el Océano Índico 4. el Océano Sur 5. el Océano Ártico."
+    },
+    {
+        "input": "Write a funny joke suitable for a PG-13 audience.",
+        "output": "¿Por qué los científicos no confían en los átomos?"
+    },
+    {
+        "input": "Edit the sentence: \"I likes reading\"",
+        "output": "Me gusta leer."
+    },
+    {
+        "input": "Generate a list of five possible majors for an engineering student.",
+        "output": "Ingeniería Mecánica Ingeniería Eléctrica Ingeniería Civil Ingeniería Química Ingeniería Aeroespacial"
+    },
+    {
+        "input": "Create a for loop in Python to print numbers from 1 to 10.",
+        "output": "```python para el número en el rango ((1, 11): imprimir ((número) ```"
+    },
+    {
+        "input": "Generate a list of words that rhyme with 'cat'.",
+        "output": "Aquí hay una lista de palabras que riman con 'gato': - murciélago - rata - sombrero - mate - pat - sat - mosquito - que - charla - plano - escupir - vat - grasa - tat - brat - en"
+    },
+    {
+        "input": "Write a description of a character in the form of a haiku.",
+        "output": "Viejo junto al mar, ojos erosionados por el sol y la sal, recuerdos a la deriva."
+    },
+    {
+        "input": "Generate a tag line for a cafe.",
+        "output": "\"Saboread el sabor en cada sorbo en nuestro acogedor café!\""
+    },
+    {
+        "input": "Generate a title for a book about personal growth.",
+        "output": "\"Prosperarse: liberar su verdadero potencial y crear una vida con propósito\""
+    },
+    {
+        "input": "Generate a business name for a company that sells Jewelry.",
+        "output": "Sparkle y Shine Jewelry Co."
+    },
+    {
+        "input": "Generate a random pun.",
+        "output": "¿Por qué los científicos no confían en los átomos?"
+    },
+    {
+        "input": "Who was the first U.S. President?",
+        "output": "El primer presidente de los Estados Unidos fue George Washington, quien ejerció dos mandatos desde el 30 de abril de 1789 hasta el 4 de marzo de 1797."
+    },
+    {
+        "input": "Name an extreme sport.",
+        "output": "Un deporte extremo es el paracaidismo."
+    },
+    {
+        "input": "What is (5^-2)^0 + (5^0)^3?",
+        "output": "Sabemos que cualquier número elevado a la potencia de 0 es 1, o a ^ 0 = 1 para cualquier a. Así, obtenemos (5 ^ -2) ^ 0 + (5 ^ 0) ^ 3 = 1 + 1 ^ 3 = 1 + 1 = 2."
+    },
+    {
+        "input": "How many miniutes does it take for the Earth to complete one rotation?",
+        "output": "La Tierra tarda aproximadamente 1.440 minutos en completar una rotación, o 24 horas."
+    },
+    {
+        "input": "Give the Spanish translation for \"fox\".",
+        "output": "La traducción española de \"zorro\" es \"zorro\"."
+    },
+    {
+        "input": "Name 5 prominent fashion brands.",
+        "output": "1 Gucci 2 Chanel 3 Prada 4 Louis Vuitton 5 Versace y también el nuevo modelo de la marca."
+    },
+    {
+        "input": "Generate a headline for an article about the effects of the Covid-19 pandemic.",
+        "output": "\"El impacto de largo alcance de la pandemia de Covid-19: una perspectiva global\""
+    },
+    {
+        "input": "Come up with 10 adjectives to describe a painting.",
+        "output": "1. Vivido 2. Expresivo 3. Intrigante 4. Fascinante 5. Whimsical 6. Emocional 7. Pensador 8. Misterioso 9. Radiante 10. Majestuoso"
+    },
+    {
+        "input": "Generate a random sequence of 12 letters.",
+        "output": "Aquí hay una secuencia generada al azar de 12 letras: KQJELDHABMXP."
+    },
+    {
+        "input": "Create a title for a blog post on protecting user data privacy.",
+        "output": "\"10 consejos esenciales para proteger la privacidad de sus datos en línea\""
+    },
+    {
+        "input": "Construct a sentence that adequately describes a baby duck.",
+        "output": "El patito es una criatura esponjosa y adorable con suaves plumas amarillas y un pico pequeño y curvo, conocido por su juguetón andadura y sus chillones."
+    },
+    {
+        "input": "Edit the following sentence to be more descriptive: \"It was hot.\"",
+        "output": "El calor era abrumador, y me escurrían pelotas de sudor por la frente mientras el sol abrasador brillaba por encima."
+    },
+    {
+        "input": "Suggest a new name for a restaurant.",
+        "output": "¿Qué tal \"Oasis sabroso\"?"
+    },
+    {
+        "input": "Write a news headline about scientists discovering a new way to clean oceans.",
+        "output": "\"Revolución: científicos descubren un método innovador para purificar las aguas oceánicas\""
+    },
+    {
+        "input": "Three positive integers have a sum of 72 and are in the ratio 1:3:4. What is the least of these three integers?",
+        "output": "Entonces el número entero más pequeño es x. Entonces los otros son 3x y 4x, y la suma de los tres es 8x."
+    },
+    {
+        "input": "Generate an antonym for the word 'stoic'.",
+        "output": "Un antónimo para la palabra \"estoico\" podría ser \"emocional\"."
+    },
+    {
+        "input": "Find the prime factorization for the number 22.",
+        "output": "La factorización prima del número 22 es 2 x 11, donde tanto 2 como 11 son números primos cuyo producto resulta en 22."
+    },
+    {
+        "input": "Compose and complete a limerick",
+        "output": "Había una vez una rana en un tronco que quería vivir en el smog saltó a la ciudad y pensó que era bonito hasta que extrañó su antigua casa en el pantano."
+    },
+    {
+        "input": "Create a list of 5 items that are commonly found in a school auditorium",
+        "output": "1. el escenario 2. las cortinas 3. las sillas o bancos para sentarse 4. los micrófonos o el sistema de sonido 5. los equipos de iluminación"
+    },
+    {
+        "input": "Name five common diseases,",
+        "output": "1. la gripe 2. el resfriado común 3. la diabetes 4. la hipertensión (presión arterial alta) 5. el asma."
+    },
+    {
+        "input": "Design a simple trivia question about a historical event or figure.",
+        "output": "¿Quién fue la primera persona en caminar sobre la luna durante la misión Apolo 11 de la NASA en 1969?"
+    },
+    {
+        "input": "Without using a calculator, calculate the product of 3 and 5.",
+        "output": "Claro, el producto de 3 y 5 es 15."
+    },
+    {
+        "input": "What are the names of the three oceans?",
+        "output": "Los tres océanos más grandes del mundo son el Océano Pacífico, el Océano Atlántico y el Océano Índico."
+    },
+    {
+        "input": "Select a sentence that demonstrates active voice.",
+        "output": "El chef cocinó una comida deliciosa."
+    },
+    {
+        "input": "Sort the following array in ascending order [3, 6,1,8].",
+        "output": "Aquí está la matriz ordenada en orden ascendente: [1, 3, 6, 8]."
+    },
+    {
+        "input": "Add the correct verb to the sentence: \nThe teacher _________ the wrong answer.",
+        "output": "El profesor corrigió la respuesta equivocada."
+    },
+    {
+        "input": "Change the subject of the following sentence: The cat meowed.",
+        "output": "El sonido de miagón vino del gato."
+    },
+    {
+        "input": "Put the following words in alphabetical order: ranger, apple, orange.",
+        "output": "Manzana, naranja, guardabosques."
+    },
+    {
+        "input": "Delete the redundant words in the following sentence:\nI went to the store for for groceries.",
+        "output": "Fui a la tienda a comprar comestibles."
+    },
+    {
+        "input": "Multiply 4 and 7.",
+        "output": "El resultado de multiplicar 4 y 7 es 28."
+    },
+    {
+        "input": "Find the antonym for the word 'abstemious'.",
+        "output": "El antónimo de la palabra \"abstemios\" es \"indulgentes\"."
+    },
+    {
+        "input": "Find the most suitable synonym to replace the word \"pristine\".",
+        "output": "\"Intacto\" o \"incoloro\" o \"inmaculado\" podrían ser sinónimos apropiados para \"puro\"."
+    },
+    {
+        "input": "Give me a sentence that illustrates the use of a dangling modifier.",
+        "output": "Con la esperanza de obtener el favor de mis padres, lamentablemente no quedaron impresionados con el regalo."
+    },
+    {
+        "input": "Generate a slogan related to the environment.",
+        "output": "\"Hoy verde, mañana brillante, para un futuro sostenible\"."
+    },
+    {
+        "input": "Name five cities in France.",
+        "output": "1. París 2. Marsella 3. Lyon 4. Toulouse 5. Niza"
+    },
+    {
+        "input": "Write a descriptive sentence about the sky.",
+        "output": "El vasto cielo de arriba, pintado de tonos azules, se extiende sin fin, con nubes blancas esponjosas que pasan a la deriva en la suave brisa."
+    },
+    {
+        "input": "Create a list of five common text abbreviations",
+        "output": "1. LOL - Ría en voz alta 2. BRB - Volveré en seguida 3. OMG - Oh, Dios mío / Oh, Dios mío 4. TTYL - Hablaremos más tarde 5. ROFL - Rodeando en el suelo riendo"
+    },
+    {
+        "input": "Name three adjectives to describe a person with a good sense of humor.",
+        "output": "Ingenuo, carismático, jovial."
+    },
+    {
+        "input": "Name at least 3 European countries.",
+        "output": "1. Francia 2. Alemania 3. España"
+    },
+    {
+        "input": "Create a rhyme using the word \"bark\".",
+        "output": "En el parque, antes de que oscurezca, hay un perro llamado Clark, que ladra fuerte y animadamente, que resuena como un chirrido de alondra."
+    },
+    {
+        "input": "Write an example of a hyperbole.",
+        "output": "¡Estoy tan hambriento que podría comerme un elefante, una jirafa y todo el zoológico ahora mismo!"
+    },
+    {
+        "input": "Name the genre of the following movie: a horror movie featuring an evil witch who tries to kidnap small children.",
+        "output": "El género de la película es el de terror."
+    },
+    {
+        "input": "Which planet is closest to the sun?",
+        "output": "El planeta más cercano al Sol es Mercurio."
+    },
+    {
+        "input": "Identify the part of speech of each word in the sentence: \"The robot painted the house.\"",
+        "output": "El robot determinante - nombre pintado - verbo (tiempo pasado) el hogar determinante - nombre."
+    },
+    {
+        "input": "Generate a 10-digit random number.",
+        "output": "Aquí hay un número aleatorio de 10 dígitos: 6715422312."
+    },
+    {
+        "input": "Name five professions related to medicine.",
+        "output": "1. médico 2. enfermero 3. farmacéutico 4. dentista 5. técnico médico"
+    },
+    {
+        "input": "Assign the following percentage grades: 90%, 80%, 75%",
+        "output": "Claro, aquí están los porcentajes asignados: 1. 90% 2. 80% 3. 75%"
+    },
+    {
+        "input": "How old is the Statue of Liberty?",
+        "output": "La Estatua de la Libertad tiene 135 años. Fue dedicada el 28 de octubre de 1886."
+    },
+    {
+        "input": "Come up with a list of ten positive adjectives that describe your grandmother.",
+        "output": "1. Generoso 2. cálido 3. amoroso 4. amable 5. sabio 6. inspirador 7. resistente 8. humorístico 9. paciente 10. fuerte."
+    },
+    {
+        "input": "Create a motto for a new t-shirt being sold to jiu jitsu practitioners.",
+        "output": "Nunca dejes de luchar."
+    },
+    {
+        "input": "Find the derivative of x2.",
+        "output": "La derivada de la función f ((x) = x ^ 2 es f' ((x) = 2x."
+    },
+    {
+        "input": "Convert 100 grams to pounds.",
+        "output": "100 gramos es equivalente a aproximadamente 0.22046 libras."
+    },
+    {
+        "input": "Determine the absolute value of -6.",
+        "output": "El valor absoluto de un número representa su distancia desde cero en la recta numérica, sin tener en cuenta su signo."
+    },
+    {
+        "input": "Make up a sentence using the following words:  vegetable, powerful, unable",
+        "output": "A pesar de que son una fuente poderosa de nutrientes, algunas personas no pueden incluir una variedad de verduras en su dieta."
+    },
+    {
+        "input": "Name an animal that is commonly kept as a pet.",
+        "output": "Un animal que se mantiene comúnmente como mascota es el perro."
+    },
+    {
+        "input": "Describe the sky in three words.",
+        "output": "Vasto, azul, sin fin."
+    },
+    {
+        "input": "Give an example of a phrase that includes the word \"gargantuan\".",
+        "output": "\"El tamaño de la multitud en el concierto era simplemente gigantesco, con miles de personas apiñadas en el estadio\"."
+    },
+    {
+        "input": "Create a metaphor that compares the speed of light to something else.",
+        "output": "La velocidad de la luz es como una flecha rápida que dispara a través de la vasta extensión del universo, dejando todo lo demás atrás en su estela."
+    },
+    {
+        "input": "Find the next 3 terms in the following sequence: 4, 6, 9, 12",
+        "output": "Los siguientes tres términos en la secuencia son: 15, 18, 21."
+    },
+    {
+        "input": "Give me the capital of Japan.",
+        "output": "La capital de Japón es Tokio."
+    },
+    {
+        "input": "Generate a title for a blog post about productivity tips.",
+        "output": "\"10 trucos increíbles para mejorar la productividad y hacer más\""
+    },
+    {
+        "input": "Make a list of the following items: lamp, table, chair",
+        "output": "Aquí está la lista de los artículos solicitados: 1. lámpara 2. mesa 3. silla."
+    },
+    {
+        "input": "Name 4 common types of trees.",
+        "output": "1. el arce 2. el pino 3. el roble 4. el abedul"
+    },
+    {
+        "input": "Suggest a tagline for a product that sells eco-friendly reusable bags.",
+        "output": "\"Lleva con cuidado, para ti y para el planeta\"."
+    },
+    {
+        "input": "Title a creative blog post about the power of storytelling.",
+        "output": "\"El arte de tejer palabras: liberar el poder de contar historias\""
+    },
+    {
+        "input": "Generate a funny one-liner joke about cats.",
+        "output": "¿Por qué los gatos no juegan al póquer en la selva?"
+    },
+    {
+        "input": "List 5 major world religions.",
+        "output": "1. el cristianismo 2. el islam 3. el hinduismo 4. el budismo 5. el sikhismo."
+    },
+    {
+        "input": "Construct three positive adjectives that describe a person.",
+        "output": "1. amable 2. compasivo 3. empático."
+    },
+    {
+        "input": "Tell me a funny joke",
+        "output": "Aquí hay una broma para ustedes: ¿Por qué los científicos no confían en los átomos?"
+    },
+    {
+        "input": "Generate a unique podcast title.",
+        "output": "\"Más allá del horizonte: explorando el futuro de la humanidad\""
+    },
+    {
+        "input": "Name three computer programming languages.",
+        "output": "1) Python 2) Java 3) C++"
+    },
+    {
+        "input": "Classify the following statement as true or false. \"A scientific method cannot be used to study a social phenomenon.\"",
+        "output": "La afirmación es falsa. Un método científico puede ser utilizado para estudiar un fenómeno social."
+    },
+    {
+        "input": "Rewrite the following sentence to make it more concise. \"It is essential that the new coding language has to be easy to learn.\"",
+        "output": "\"El nuevo lenguaje de codificación debe ser fácil de aprender\"."
+    },
+    {
+        "input": "What is the chemical symbol of iron?",
+        "output": "El símbolo químico del hierro es \"Fe\"."
+    },
+    {
+        "input": "Generate a team name for a group of three people.",
+        "output": "Las Tres Amenazas."
+    },
+    {
+        "input": "Edit the following sentence to make it sound more formal. \"we have to find some way to make it work\"",
+        "output": "\"Debemos esforzarnos por encontrar una solución viable para asegurar su funcionamiento exitoso\"."
+    },
+    {
+        "input": "Type the silent letter in the word 'honest'.",
+        "output": "La letra muda en la palabra \"honesto\" es \"h\"."
+    },
+    {
+        "input": "Generate a catchy slogan to promote recycling.",
+        "output": "Reducir, Reutilizar, Reciclar - ¡Mantenga el planeta verde y limpio!"
+    },
+    {
+        "input": "From the sentence “The apple is red.”, identify the main verb.",
+        "output": "El verbo principal en la oración La manzana es roja. es \"es\"."
+    },
+    {
+        "input": "Synonymize the word “angry.”",
+        "output": "Irritado, furioso, enfurecido, loco, molesto, enojado, enfurecido, indignado, exasperado, enfurecido, molesto."
+    },
+    {
+        "input": "Translate the following sentence into French:\n\"We had a great time\"",
+        "output": "\"Hemos pasado un buen momento\""
+    },
+    {
+        "input": "Identify the proper noun in the sentence \"Today is Thursday.\"",
+        "output": "El sustantivo propio en la oración es \"Jueves\"."
+    },
+    {
+        "input": "What is the name of the French national anthem?",
+        "output": "El nombre del himno nacional francés es \"La Marseillaise\". Fue escrito y compuesto en 1792 por Claude Joseph Rouget de Lisle."
+    },
+    {
+        "input": "Classify the following phrase as a metaphor or a simile: \"Life is a rollercoaster\".",
+        "output": "La frase \"La vida es una montaña rusa\" es una metáfora."
+    },
+    {
+        "input": "Rewrite the sentence “I can’t stand the heat\" in a positive way.",
+        "output": "Prefiero las temperaturas más frías."
+    },
+    {
+        "input": "Name 5 characters from the movie Titanic.",
+        "output": "1. Jack Dawson 2. Rose DeWitt Bukater 3. Cal Hockley 4. Molly Brown 5. Ruth DeWitt Bukater 5."
+    },
+    {
+        "input": "List five adjectives to describe a person with strong communication skills.",
+        "output": "1. articulado 2. seguro 3. claro 4. persuasivo 5. atractivo."
+    },
+    {
+        "input": "Construct a sentence with the word \"ultimatum\".",
+        "output": "Después de semanas de negociaciones fallidas, el sindicato de trabajadores emitió un ultimátum a la gerencia, exigiendo mejores salarios y condiciones de trabajo."
+    },
+    {
+        "input": "Name two famous examples of artificial intelligence.",
+        "output": "1. Siri de Apple 2. Alexa de Amazon. El teléfono móvil más grande del mundo."
+    },
+    {
+        "input": "Provide a list of five animals that are classified as primates.",
+        "output": "1. los gorilas 2. los chimpancés 3. los orangutanes 4. los gibones 5. los lémures"
+    },
+    {
+        "input": "Write a haiku about falling leaves.",
+        "output": "Las hojas que caen descienden, Susurros silenciosos en la brisa, Regalo de otoño a la tierra."
+    },
+    {
+        "input": "Generate a title for an article about why children should learn meditation.",
+        "output": "\"Meditar para niños: por qué la atención plena es esencial para el desarrollo de un niño\""
+    },
+    {
+        "input": "Create a tagline for a website offering career-counseling services",
+        "output": "\"Poderizar su viaje profesional, paso a paso\"."
+    },
+    {
+        "input": "Translate the sentence \"I come from a small village\" into Spanish",
+        "output": "\"Vengo de un pequeño pueblo\""
+    },
+    {
+        "input": "Create an attention-grabbing heading for a blog article about developing your own business",
+        "output": "\"Desbloquea tu emprendedor interior: Cómo construir y hacer crecer tu propio negocio desde cero\""
+    },
+    {
+        "input": "Generate a headline for a blog article about online education",
+        "output": "\"Revolucionando el aprendizaje: las ventajas y limitaciones de la educación en línea\""
+    },
+    {
+        "input": "Generate keywords related to artificial intelligence in 5 words.",
+        "output": "1. máquina 2. aprendizaje 3. robótica 4. inteligencia 5. automatización"
+    },
+    {
+        "input": "Come up with a name for a dessert that is gluten-free, vegan, and has blueberries.",
+        "output": "\"Midas de la Felicidad del arándanos\""
+    },
+    {
+        "input": "Generate a hilarious pun from the word \"cat\".",
+        "output": "¿Por qué los gatos no juegan al póquer en la selva?"
+    },
+    {
+        "input": "What is the chemical formula of Ascorbic Acid?",
+        "output": "La fórmula química del ácido ascórbico, también conocido como vitamina C, es C6H8O6."
+    },
+    {
+        "input": "Rewrite the following sentence in active voice: \nThe ball was thrown by Jack.",
+        "output": "Jack lanzó la pelota."
+    },
+    {
+        "input": "How would you describe artificial intelligence in three words?",
+        "output": "Avanzado, autónomo, aprendiendo."
+    },
+    {
+        "input": "How many gigs are in a terabyte?",
+        "output": "Hay 1024 gigabytes (GB) en un terabyte (TB)."
+    },
+    {
+        "input": "Name the 5 major countries in South America.",
+        "output": "Los 5 principales países de América del Sur son: 1. Brasil 2. Argentina 3. Colombia 4. Perú 5. Chile."
+    },
+    {
+        "input": "Name three famous paintings by Pablo Picasso.",
+        "output": "Tres pinturas famosas de Pablo Picasso son: 1. Las señoritas de Aviñón (1907) 2. Guernica (1937) 3. El viejo guitarrista (1903-1904)"
+    },
+    {
+        "input": "Find the title of a book about a political movement in the 1940s.",
+        "output": "Un título de libro aplicable sobre un movimiento político en la década de 1940 es \"La era de los extremos: una historia del mundo, 1914-1991\" de Eric Hobsbawm."
+    },
+    {
+        "input": "Name one job in the medical field",
+        "output": "Un trabajo en el campo de la medicina es un médico."
+    },
+    {
+        "input": "Compute the exponential of 6 to the 3rd power",
+        "output": "El exponencial de 6 a la tercera potencia es 216."
+    },
+    {
+        "input": "Name the longest river in India.",
+        "output": "El río más largo de la India es el río Ganges, que tiene 2.525 km de largo."
+    },
+    {
+        "input": "Generate a pun from the words 'giraffe' and 'elephant'",
+        "output": "¿Por qué las jirafas no juegan a escondite con los elefantes? Porque siempre ponen el cuello fuera, mientras que el elefante nunca olvida los escondites."
+    },
+    {
+        "input": "Summarize the key points of an article about AI ethics",
+        "output": "Lo siento, no me proporcionó un artículo para que lo resumía. ¿Puede por favor proporcionar el enlace o el texto del artículo que desea que resuma?"
+    },
+    {
+        "input": "Generate a hashtag for an online movement to help support small businesses",
+        "output": "#Suporte a la Pequeña Empresa"
+    },
+    {
+        "input": "Write a one-line haiku.",
+        "output": "\"La brisa de otoño sopla, las hojas cruje y baila en el viento, la sinfonía de la naturaleza\"."
+    },
+    {
+        "input": "What is the atomic weight of cobalt?",
+        "output": "El peso atómico del cobalto es 58.933194."
+    },
+    {
+        "input": "Find a Spanish translation for the word \"friend\".",
+        "output": "La traducción española de la palabra \"amigo\" es \"amigo\" si el amigo es hombre, o \"amiga\" si el amigo es mujer."
+    },
+    {
+        "input": "Find a quote related to success.",
+        "output": "Aquí hay una famosa cita sobre el éxito de Winston Churchill: \"El éxito no es definitivo, el fracaso no es fatal: es el coraje para continuar lo que cuenta\"."
+    },
+    {
+        "input": "Create a ten-word poem about joy.",
+        "output": "La alegría esparce, ilumina corazones, difunde calor, deleite sin fin, apreciado."
+    },
+    {
+        "input": "Generate a five-word sentence about the benefits of travelling.",
+        "output": "Viajar amplía las perspectivas y fortalece las conexiones."
+    },
+    {
+        "input": "What year did the American Revolution start?",
+        "output": "La Revolución Americana, también conocida como la Guerra de Independencia Americana, comenzó el 19 de abril de 1775."
+    },
+    {
+        "input": "Find the synonym of 'unrelenting':",
+        "output": "El sinónimo de \"incesante\" es implacable, inflexible, implacable e imparable."
+    },
+    {
+        "input": "What is the name of the fifth planet from the Sun?",
+        "output": "El quinto planeta desde el Sol es Júpiter."
+    },
+    {
+        "input": "Given the function f(x)=3x^3+2, find the value of x so that f^-1(x)=4.",
+        "output": "La ecuación f^-1 ((x) = 4 es equivalente a x=f(4). Por lo tanto, queremos encontrar el valor f(4)."
+    },
+    {
+        "input": "Provide a synonym for 'irresistible'",
+        "output": "Algunos sinónimos de \"irresistible\" incluyen: seductor, tentador, cautivador, seductor, cautivador, encantador y magnético."
+    },
+    {
+        "input": "Create a poetic haiku about being alone.",
+        "output": "En esta tranquilidad estoy solo, pero la naturaleza me habla."
+    },
+    {
+        "input": "Name 5 famous composers from the Baroque era.",
+        "output": "1. Johann Sebastian Bach 2. Antonio Vivaldi 3. George Frideric Handel 4. Henry Purcell 5. Arcangelo Corelli. El primer compositor de música de la época fue el italiano Johann Sebastian Bach."
+    },
+    {
+        "input": "Construct a sentence using the words “exuberant”, “frivolous” and “celestial”.",
+        "output": "La multitud exuberante bailaba a la música frívola bajo el cielo celestial de la noche de verano."
+    },
+    {
+        "input": "Generate a headline for a news article about a recent cyberattack.",
+        "output": "\"Ciberataque ataca a una gran empresa, comprometiendo los datos de millones de usuarios\""
+    },
+    {
+        "input": "Generate an example sentence using the word \"antidote\"",
+        "output": "Los paramédicos se apresuraron a administrar el antídoto a la víctima de la mordedura de serpiente para contrarrestar los efectos del veneno."
+    },
+    {
+        "input": "Generate an example sentence which uses the verb \"devour\".",
+        "output": "Después de su larga caminata, devoró el sándwich grande en un tiempo récord."
+    },
+    {
+        "input": "Name one example of a non-human primate",
+        "output": "Un ejemplo de un primate no humano es el chimpancé."
+    },
+    {
+        "input": "Name 5 common punctuation marks",
+        "output": "El punto de exclamación (.) 4. el signo de pregunta (?) 5. el apóstrofo (')"
+    },
+    {
+        "input": "What is the fifth largest moon of Jupiter?",
+        "output": "La quinta luna más grande de Júpiter es Europa."
+    },
+    {
+        "input": "Create a research topic related to increasing customer loyalty.",
+        "output": "\"Explorar el impacto de la personalización en la lealtad del cliente en el comercio electrónico\""
+    },
+    {
+        "input": "Convert the number 2.34567 to a different base.",
+        "output": "¿Tiene una base específica en mente en la que quiere que convierta 2.34567?"
+    },
+    {
+        "input": "Generate a song title for a song about unrequited love.",
+        "output": "\"Ecos de un corazón lejano\""
+    },
+    {
+        "input": "Create a sentence using a gerund",
+        "output": "Leer un libro es una de las actividades más relajantes que se pueden hacer antes de acostarse."
+    },
+    {
+        "input": "Who is the author of the novel \"White Fang\"?",
+        "output": "El autor de la novela \"White Fang\" es Jack London."
+    },
+    {
+        "input": "Rewrite the following sentence as a question: She went to the store",
+        "output": "¿Fue a la tienda?"
+    },
+    {
+        "input": "Label the parts of speech for the following sentence:\nA lawyer was buying some books",
+        "output": "A - artículo abogado - sustantivo era - verbo compra - verbo algunos - libros determinantes - sustantivo"
+    },
+    {
+        "input": "What was the name of the first satellite to be sent into space?",
+        "output": "El nombre del primer satélite que se envió con éxito al espacio fue Sputnik 1. Fue lanzado por la Unión Soviética el 4 de octubre de 1957."
+    },
+    {
+        "input": "Classify the following word as a noun, verb, or adjective: delicious",
+        "output": "Delicioso es un adjetivo, ya que describe la calidad o bondad de un sabor o sabor."
+    },
+    {
+        "input": "Name one country that is part of the European Union",
+        "output": "Un país que forma parte de la Unión Europea es Alemania."
+    },
+    {
+        "input": "Construct a regular expression to identify strings that start with the letter \"s\".",
+        "output": "La expresión regular para identificar cadenas que comienzan con la letra \"s\" es `^s` o `^[sS]` si quieres hacerlo insensible a mayúsculas y minúsculas."
+    },
+    {
+        "input": "Generate a unique username.",
+        "output": "GalacticCrusader16 fue un éxito."
+    },
+    {
+        "input": "Paraphrase the following sentence: The job market is highly competitive.",
+        "output": "La competencia es intensa en el sector del empleo."
+    },
+    {
+        "input": "Change the following sentence to the active voice: The presentation was given by our manager.",
+        "output": "Nuestro gerente hizo la presentación."
+    },
+    {
+        "input": "Create a new sentence using the transition word \"otherwise\".",
+        "output": "Asegúrese de guardar su trabajo con frecuencia, de lo contrario corre el riesgo de perder datos importantes."
+    },
+    {
+        "input": "Generate a sentence that begins with the phrase \"I remember when\".",
+        "output": "Recuerdo cuando la gente solía llamar a sus amigos por teléfono sólo para charlar, en lugar de usar las redes sociales y mensajería instantánea."
+    },
+    {
+        "input": "Write a sentence that includes an idiom.",
+        "output": "Había estado trabajando tan duro para los próximos exámenes que ni siquiera tuvo tiempo de parar y oler las rosas."
+    },
+    {
+        "input": "Create an equation for calculating the total distance walked.",
+        "output": "D = d * n Donde: D = distancia total caminada, d = distancia en una caminata, n = número de caminatas realizadas."
+    },
+    {
+        "input": "Create a rhyming couplet that reflects the theme of nature.",
+        "output": "En el bosque tan exuberante y sereno, la belleza de la naturaleza reina como reina suprema."
+    },
+    {
+        "input": "Create a haiku poem about nature",
+        "output": "Hojas verdes que crujieron suavemente, arroyos de montaña corriendo, frescos y claros, la sinfonía de la naturaleza."
+    },
+    {
+        "input": "Generate a quirky simile to compare a secret to",
+        "output": "Un secreto es como un enano de jardín, escondido y escondido, pero una vez que lo descubres nunca dejarás de notarlo."
+    },
+    {
+        "input": "Create a catchy phrase that illustrates the concept of global warming.",
+        "output": "\"La fiebre de la Tierra: demasiado caliente para manejar, ¡Afriémosla con acción global!\""
+    },
+    {
+        "input": "Rewrite the sentence \"He is a smart person\" in passive voice",
+        "output": "Una persona inteligente es lo que es/se describe como una persona inteligente."
+    },
+    {
+        "input": "Find a five-letter word that begins with 'd' and ends with 's'.",
+        "output": "Una palabra de cinco letras que comienza con \"d\" y termina con \"s\" es \"vestido\"."
+    },
+    {
+        "input": "Rewrite this sentence to make it more formal - \"I found the solution\"",
+        "output": "\"He descubierto la resolución\"."
+    },
+    {
+        "input": "Find a four-letter word that begins with 'c'.",
+        "output": "La palabra \"abrigo\" podría funcionar para ti."
+    },
+    {
+        "input": "Who was the president of the United States in 1990?",
+        "output": "En 1990, el presidente de los Estados Unidos era George H.W. Bush."
+    },
+    {
+        "input": "Generate a creative username for a social network.",
+        "output": "\"SunsideUp4Ever\" es el nombre de la película."
+    },
+    {
+        "input": "Rewrite this sentence to make it sound more polite - \"Where is the closest store?\"",
+        "output": "¿Puedo preguntar la ubicación de la tienda más cercana?"
+    },
+    {
+        "input": "Generate a sentence using the phrase \"the wind blew\".",
+        "output": "Mientras miraba por la ventana, el viento soplaba tan fuerte que doblaba los árboles y sacudía las hojas de sus ramas."
+    },
+    {
+        "input": "Name a famous work of art.",
+        "output": "Una obra de arte famosa es la \"Mona Lisa\" de Leonardo da Vinci."
+    },
+    {
+        "input": "Generate a sentence that begins with the phrase \"She had a dream\".",
+        "output": "Ella soñó que estaba volando por el cielo, sintiéndose libre y sin peso mientras el viento corría a su lado."
+    },
+    {
+        "input": "Create a list of five ingredients needed to bake a cake",
+        "output": "1. harina 2. azúcar 3. huevos 4. mantequilla 5. polvo de hornear"
+    },
+    {
+        "input": "Spell the world \"pneumonia\"",
+        "output": "- ¿Qué pasa?"
+    },
+    {
+        "input": "Write the title of a book starting with the following three words: \"cat, river, house\"",
+        "output": "\"Gato, río, casa: el cuento del viaje de un felino a casa\""
+    },
+    {
+        "input": "Provide three adjectives to describe a tree.",
+        "output": "Majestuoso, fuerte, verdoso."
+    },
+    {
+        "input": "Name one social networking website",
+        "output": "Una red social muy popular es Facebook."
+    },
+    {
+        "input": "Compose a haiku poem about a summer day.",
+        "output": "Brisa cálida en mi cara Sol sin fin trae alegría y paz Verano, por favor no se desvanezca"
+    },
+    {
+        "input": "Write a 10-14 word sentence describing a beautiful river scene.",
+        "output": "Un río sereno fluye a lo largo de verdes orillas, brillando bajo un sol dorado."
+    },
+    {
+        "input": "In which country would you find the Raj Ghat, a national memorial to Mahatma Gandhi?",
+        "output": "Raj Ghat, el monumento nacional dedicado a Mahatma Gandhi, se encuentra en la India, específicamente en la ciudad capital de Nueva Delhi."
+    },
+    {
+        "input": "Write a 6 word sentence describing a hot summer day.",
+        "output": "El sol se pone, el calor abrasador se eleva."
+    },
+    {
+        "input": "Give me a 4-digit number",
+        "output": "Aquí hay un número aleatorio de 4 dígitos para usted: 5678."
+    },
+    {
+        "input": "What is the approximate boiling point of water in Celsius?",
+        "output": "El punto de ebullición del agua a presión atmosférica estándar es aproximadamente de 100 grados centígrados."
+    },
+    {
+        "input": "Name three popular search engines",
+        "output": "Los tres motores de búsqueda más populares son: 1. Google 2. Bing 3. Yahoo."
+    },
+    {
+        "input": "Generate a list of three diseases that are preventable through vaccinations.",
+        "output": "1. el sarampión 2. la polio 3. la hepatitis B"
+    },
+    {
+        "input": "Classify the following statement: \"The best way to learn is by teaching\".",
+        "output": "La declaración \"La mejor manera de aprender es enseñando\" es una opinión."
+    },
+    {
+        "input": "Calculate the sum of 2+2",
+        "output": "La suma de 2 + 2 es 4."
+    },
+    {
+        "input": "Describe the ocean in five words.",
+        "output": "Vasto, profundo, misterioso, salado, inspirador de temor."
+    },
+    {
+        "input": "Write a mathematical expression for this statement: \"the product of six and the sum of three and four\".",
+        "output": "6 * (3 + 4)"
+    },
+    {
+        "input": "Generate a nickname for a person who is good at playing basketball and loves to eat vanilla ice cream.",
+        "output": "\"Scoop Dunk\" (El pedazo de mierda)"
+    },
+    {
+        "input": "Generate a creative slogan that describes the benefits of using an AI assistant.",
+        "output": "\"Eficiencia a su alcance, ¡deje que un asistente de IA simplifique su vida!\""
+    },
+    {
+        "input": "Identify the conjunction in the phrase \"freedom and justice\".",
+        "output": "La conjunción en la frase \"libertad y justicia\" es \"y\"."
+    },
+    {
+        "input": "Classify the type of sentence \"I am sitting\".",
+        "output": "El tipo de oración \"estoy sentado\" es una oración declarativa."
+    },
+    {
+        "input": "How many countries are members of the United Nations?",
+        "output": "A partir de septiembre de 2021, hay 193 estados miembros en las Naciones Unidas."
+    },
+    {
+        "input": "Calculate the sum of 3, 17, and 37",
+        "output": "La suma de 3, 17 y 37 es 57."
+    },
+    {
+        "input": "Name three famous European landmarks",
+        "output": "1. la Torre Eiffel en París, Francia 2. el Coliseo en Roma, Italia 3. el Big Ben en Londres, Inglaterra"
+    },
+    {
+        "input": "Describe a machine learning model to classify emails as spam or not spam.",
+        "output": "Un modelo popular de aprendizaje automático para clasificar los correos electrónicos como spam o no es el algoritmo de Bayes ingenuo."
+    },
+    {
+        "input": "What is one way to evaluate a candidate's performance in a programming interview?",
+        "output": "Una forma de evaluar el rendimiento de un candidato en una entrevista de programación es dándole un desafío de codificación o una tarea de resolución de problemas."
+    },
+    {
+        "input": "Create an intriguing headline for an article about air pollution.",
+        "output": "\"Peligro silencioso: cómo el aire que respiramos nos está matando lentamente cada día\""
+    },
+    {
+        "input": "Find the sum of the numbers from 1 to 10.",
+        "output": "La suma de los números del 1 al 10 es 55."
+    },
+    {
+        "input": "Write a joke about coffee.",
+        "output": "Porque saben cómo hacer espresso sin empaparse demasiado."
+    },
+    {
+        "input": "Calculate the month number given the date: August 24",
+        "output": "El número del mes para la fecha 24 de agosto es 8, ya que agosto es el octavo mes del año."
+    },
+    {
+        "input": "Come up with a 3 word slogan for a cell phone company.",
+        "output": "\"Siempre mantenga la conexión\"."
+    },
+    {
+        "input": "Generate a generic URL for a website about cats",
+        "output": "Aquí hay un ejemplo de una URL genérica para un sitio web sobre gatos: www.catloversite.com."
+    },
+    {
+        "input": "Come up with a clever slogan that best describes Amazon.",
+        "output": "\"Desde A hasta Z, Amazon lo entrega sin esfuerzo\"."
+    },
+    {
+        "input": "Come up with a creative title for a course about marketing",
+        "output": "\"Dominar el arte de la persuasión: estrategias de marketing innovadoras para la era moderna\""
+    },
+    {
+        "input": "Name at least 5 social media platforms",
+        "output": "1. Facebook 2. Twitter 3. Instagram 4. LinkedIn 5. Snapchat. El contenido de Facebook es el mismo que el contenido de Instagram."
+    },
+    {
+        "input": "Come up with a name for a start up.",
+        "output": "Un nombre potencial para una nueva empresa podría ser \"LaunchPad Innovations\"."
+    },
+    {
+        "input": "Generate a sentence using the words \"purchase\", \"online\", and \"store\".",
+        "output": "Puede comprar fácilmente en su tienda en línea favorita desde la comodidad de su propia casa."
+    },
+    {
+        "input": "Name a popular dating app.",
+        "output": "Una aplicación de citas popular es Tinder."
+    },
+    {
+        "input": "Construct a sentence using the following words: car, cat, gift.",
+        "output": "Vi pasar un coche con un gato sentado en el asiento del acompañante, sosteniendo un regalo en sus patas."
+    },
+    {
+        "input": "Make a joke about a zombie.",
+        "output": "¿Por qué los zombies no van de vacaciones?"
+    },
+    {
+        "input": "Name five animals native to Africa.",
+        "output": "1. el león 2. el elefante africano 3. la jirafa 4. el hipopótamo 5. el leopardo africano"
+    },
+    {
+        "input": "Name three composers of the Baroque period.",
+        "output": "Tres compositores del período barroco son Johann Sebastian Bach, George Frideric Handel y Antonio Vivaldi."
+    },
+    {
+        "input": "Generate five words with the root \"cycl\".",
+        "output": "1. Ciclón 2. Bicicleta 3. Cíclico 4. Ciclista 5. Cicloide"
+    },
+    {
+        "input": "Produce a five line haiku poem describing a sunset.",
+        "output": "Cielo naranja ardiente silueta de montaña a la vista pájaros deslizan rápidamente a casa pacífico final del día Noche mantas el mundo pronto"
+    },
+    {
+        "input": "Name a job that requires a lot of physical strength.",
+        "output": "Un trabajo que requiere mucha fuerza física es el de la construcción."
+    },
+    {
+        "input": "Identify a food item that starts with the letter \"D\".",
+        "output": "Un alimento que comienza con la letra \"D\" es una rosquilla."
+    },
+    {
+        "input": "Name three books written by J. K. Rowling.",
+        "output": "1. Harry Potter y la Piedra Filosofal 2. Harry Potter y la Cámara de los Secretos 3. Harry Potter y el prisionero de Azkaban"
+    },
+    {
+        "input": "Create an example sentence for the phrase 'baffle the audience'.",
+        "output": "Durante la actuación del mago, hizo un truco increíble que desconcertó completamente a la audiencia."
+    },
+    {
+        "input": "Name two brands from the automotive industry in the United States.",
+        "output": "Dos marcas populares de la industria automotriz en los Estados Unidos son Ford y General Motors (GM)."
+    },
+    {
+        "input": "Provide a sentence for the phrase \"learning curve\".",
+        "output": "\"El nuevo software de programación tiene una curva de aprendizaje pronunciada, pero una vez dominado, puede aumentar la eficiencia y la productividad\"."
+    },
+    {
+        "input": "Rewrite this sentence in a positive way: \"I cannot do it\".",
+        "output": "\"Encontraré la manera de hacerlo\" o \"Confio en que con práctica y dedicación, podré hacerlo\"."
+    },
+    {
+        "input": "Write a sentence for the idiom \"taken aback\".",
+        "output": "Cuando escuché la noticia impactante, me quedé sorprendida y no sabía qué responder."
+    },
+    {
+        "input": "Name a popular movie from 2019.",
+        "output": "Una de las películas más populares de 2019 es \"Avengers: Endgame\"."
+    },
+    {
+        "input": "Come up with a slogan for an online diversity and inclusion training.",
+        "output": "\"Poderizar la unidad, abrazar las diferencias - a través de la diversidad en línea y la capacitación de inclusión\"."
+    },
+    {
+        "input": "Suggest an original and natural-sounding greeting for a chatbot.",
+        "output": "\"Hola, me alegra que hayas venido a charlar conmigo hoy. ¿Qué tienes en mente?\""
+    },
+    {
+        "input": "Given a number of 5, identify an example of a prime number which is greater than 5.",
+        "output": "Un ejemplo de un número primo mayor que 5 es 7."
+    },
+    {
+        "input": "Generate a random \"password\" that meets the following criteria: - 8 characters long - Must contain at least 1 letter and 1 number",
+        "output": "Aquí hay una contraseña generada al azar que cumple con los criterios mencionados: `J2n4X9tF`."
+    },
+    {
+        "input": "Let a⊕ b=3a+4b for all real numbers a and b. Find 3⊕ 1.",
+        "output": "Tenemos 3 1 = 3* 3 + 4* 1 = 13."
+    },
+    {
+        "input": "Generate a list of five scientific terms starting with \"geo\"",
+        "output": "1. geología 2. geografía 3. geofísica 4. geotérmica 5. geoquímica"
+    },
+    {
+        "input": "Write a 3-line haiku poem about the stars.",
+        "output": "Joyas brillantes, esparcidas por el cielo de tinta, danzando la luz de las estrellas."
+    },
+    {
+        "input": "Generate an English sentence containing the following words: \"window\", \"happy\", \"open\".",
+        "output": "\"Abrir la ventana trajo una brisa fresca y me hizo sentir muy feliz\"."
+    },
+    {
+        "input": "Find the missing number in the sequence: 3, 5, 7, __, 13",
+        "output": "El número que falta en la secuencia es 9. El patrón es sumar 2 al número anterior para obtener el siguiente."
+    },
+    {
+        "input": "Rewrite the following sentence making it as short as possible while still preserving its meaning:\n\nThe shirt he is wearing is very fashionable.",
+        "output": "Él usa una camisa de moda."
+    },
+    {
+        "input": "Which major river runs through Egypt?",
+        "output": "El río principal que atraviesa Egipto es el Nilo."
+    },
+    {
+        "input": "Reword the following sentence in a simpler form: \"We have reached a point where we can no longer live in darkness\".",
+        "output": "\"No podemos seguir en la oscuridad\"."
+    },
+    {
+        "input": "Edit the following sentence: \"The sun is late today.\"",
+        "output": "El sol parece salir más tarde hoy."
+    },
+    {
+        "input": "If 2^8=16^x, find x.",
+        "output": "Podemos escribir 16 como 2^4. por lo tanto, podemos escribir nuestra ecuación como 2^8 = 2^4 * x."
+    },
+    {
+        "input": "Generate 5 similar words to \"gentleman\".",
+        "output": "1. caballeroso 2. cortés 3. valiente 4. amable 5. educado."
+    },
+    {
+        "input": "State the full name of the author of \"Alice's Adventures in Wonderland\".",
+        "output": "El nombre completo del autor de \"Alice's Adventures in Wonderland\" es Charles Lutwidge Dodgson, más conocido por su seudónimo Lewis Carroll."
+    },
+    {
+        "input": "Find the first prime number that is greater than 50",
+        "output": "El primer número primo mayor que 50 es 53."
+    },
+    {
+        "input": "Write a search query to find out the population of China",
+        "output": "\"Población de China\""
+    },
+    {
+        "input": "Compose a three line poem using the phrase “the night sky.”",
+        "output": "El cielo nocturno es vasto y ancho, un dosel de estrellas que no pueden ocultarse, un retrato pintado de orgullo celestial."
+    },
+    {
+        "input": "Generate a list of five new countries which could host the 2026 World Cup.",
+        "output": "1. Australia 2. Marruecos 3. Egipto 4. Canadá 5. Suecia"
+    },
+    {
+        "input": "Create an advertising slogan for a pet food company.",
+        "output": "\"Alimentando a cada pata y garra, ¡alimentándolos con nuestra comida para mascotas!\""
+    },
+    {
+        "input": "Find three synonyms for the following word: happy",
+        "output": "1. alegre 2. encantado 3. contento"
+    },
+    {
+        "input": "Create a password for email that includes 8 characters.",
+        "output": "La contraseña para su correo electrónico podría ser: m!@dP8Wx"
+    },
+    {
+        "input": "Identify the number of syllables in the word \"onomatopoeia\".",
+        "output": "La palabra \"onomatopea\" tiene 6 sílabas."
+    },
+    {
+        "input": "Create a limerick about cats.",
+        "output": "Había una vez un gato con sombrero, cuyo dueño lo creía bastante gordo, miagaba y ronroneaba, y no hablaba una palabra, pero pasaba todos sus días en una estera."
+    },
+    {
+        "input": "Generate a metaphor for the concept of identity.",
+        "output": "La identidad es como una huella digital, única para cada individuo y que deja una marca distinta en todo lo que toca."
+    },
+    {
+        "input": "Write an English haiku about snow.",
+        "output": "Caen suaves copos de nieve, cubren la tierra en silencio, pura maravilla del invierno."
+    },
+    {
+        "input": "Identify the molecular formula for carbon dioxide.",
+        "output": "La fórmula molecular para el dióxido de carbono es CO2."
+    },
+    {
+        "input": "Select the most suitable word to describe the following definition.\n\"A large group of people, animals, or things that are all similar in another way\"",
+        "output": "La palabra más adecuada para describir la definición es \"grupo\"."
+    },
+    {
+        "input": "Generate five adjectives to describe the air in the room.",
+        "output": "1. Refrescante 2. Frío 3. Crisposo 4. Energizante 5."
+    },
+    {
+        "input": "Use the word \"scrumptious\" in a sentence.",
+        "output": "El pastel de manzana casero de la receta de mi abuela fue absolutamente delicioso."
+    },
+    {
+        "input": "Suppose you are writing a press release describing the features of a new product. Write the main headline.",
+        "output": "\"Lanzamiento de un nuevo producto revolucionario con características avanzadas y rendimiento sin igual!\""
+    },
+    {
+        "input": "Classify the following items as either alive or non-living: rock, snail, tree.",
+        "output": "La roca no está viva, el caracol está vivo, el árbol está vivo."
+    },
+    {
+        "input": "Generate a proverb about finding one's path in life.",
+        "output": "\"No todos los que vagan están perdidos, porque el camino al éxito es a menudo sinuoso e incierto\"."
+    },
+    {
+        "input": "Name three aquatic animals.",
+        "output": "1. delfín 2. pulpo 3. caballo de mar"
+    },
+    {
+        "input": "Generate a sentence that expresses optimism.",
+        "output": "\"Incluso en los momentos más oscuros, siempre hay un rayo de esperanza y una nueva oportunidad esperando a la vuelta de la esquina\"."
+    },
+    {
+        "input": "Evaluate the sentence \"She managed to win the race\"",
+        "output": "La frase describe un resultado exitoso para el sujeto, \"ella\", que fue capaz de ganar una carrera por esfuerzo personal, determinación o habilidad."
+    },
+    {
+        "input": "Name the capital of India",
+        "output": "Nueva Delhi es la capital de la India."
+    },
+    {
+        "input": "List five common types of trees.",
+        "output": "1. el roble 2. el arce 3. el pino 4. el abedul 5. el sauce"
+    },
+    {
+        "input": "Compose an original haiku about the sea.",
+        "output": "Un mar inmenso y indómito, con olas interminables que chocan en la orilla, la sinfonía de la naturaleza."
+    },
+    {
+        "input": "If f(x) = 3x+2 and g(x) = (x-1)^2, what is f(g(-2))?",
+        "output": "Tenemos g ((-2) = (-2-1) ^ 2 = 9, por lo que f ((g ((-2)) = f ((9) = 3 ((9) + 2 = 29."
+    },
+    {
+        "input": "Construct a proverb that encapsulates the concept of freedom.",
+        "output": "\"La libertad no se da, se gana con determinación y coraje\"."
+    },
+    {
+        "input": "Come up with an antonym for the word \"conservative\".",
+        "output": "El antónimo de la palabra \"conservador\" es \"progresista\"."
+    },
+    {
+        "input": "Classify this sentence as positive, negative or neutral sentiment: \"I am so tired\".",
+        "output": "No"
+    },
+    {
+        "input": "Rewrite this sentence to make it more descriptive: \"It was a nice day\".",
+        "output": "\"Era un día glorioso, marcado por un alegre sol, una leve brisa y un clima agradable por todas partes\"."
+    },
+    {
+        "input": "What is the most common word in English?",
+        "output": "La palabra más común en inglés es \"the\"."
+    },
+    {
+        "input": "Arrange this list of letters to make the longest English word possible: i, s, l, a, n.",
+        "output": "La palabra inglesa más larga que se puede formar de las letras dadas es \"nails\"."
+    },
+    {
+        "input": "Provide an example of a four-letter word that rhymes with \"jeep\".",
+        "output": "\"Profundo\" es una palabra de cuatro letras que rima con \"jeep\"."
+    },
+    {
+        "input": "Expand the product (9x+2)(4x^2+3).",
+        "output": "(9x + 2) ((4x ^ 2 + 3) = 36x ^ 3 + 8x ^ 2 + 27x + 6"
+    },
+    {
+        "input": "Generate a metaphor that describes a feeling of helplessness.",
+        "output": "Sentirse impotente es como intentar remar un barco con un remo roto en medio de un mar tormentoso."
+    },
+    {
+        "input": "Create a question to assess someone's personality.",
+        "output": "En una escala del 1 al 10, ¿cuánto disfrutas pasar tiempo con otras personas, y en qué tipos de interacciones sociales prosperas?"
+    },
+    {
+        "input": "Give three alternatives for the word \"grand\".",
+        "output": "1. magnífico 2. espléndido 3. impresionante"
+    },
+    {
+        "input": "Name the popular fast-food chain whose logo is golden arches.",
+        "output": "La popular cadena de comida rápida cuyo logotipo es de arcos dorados es McDonald's."
+    },
+    {
+        "input": "Calculate the sum of 5857 and 9224.",
+        "output": "La suma de 5857 y 9224 es 15081."
+    },
+    {
+        "input": "Generate 6 random unique numbers between 1 and 500.",
+        "output": "Aquí hay 6 números únicos aleatorios entre 1 y 500: 1. 367 2. 42 3. 495 4. 229 5. 311 6. 19"
+    },
+    {
+        "input": "Generate a 3-line poem based on the following theme: 'Celebrating Nature'.",
+        "output": "El cielo se extiende tan alto, los colores vibrantes besan el cielo, celebrando la naturaleza y su belleza ilimitada."
+    },
+    {
+        "input": "Imagine you are in a restaurant and compose a sentence (using at least 3 words) that describes the taste of a dish.",
+        "output": "El plato tiene un sabor salado y humeante con toques de especias."
+    },
+    {
+        "input": "Change the following sentence using synonym replacement:\nThe puppy barked loudly.",
+        "output": "El cachorro ladró ruidosamente."
+    },
+    {
+        "input": "Name five types of drinks.",
+        "output": "Aquí hay cinco tipos de bebidas: 1. agua 2. refresco 3. café 4. té 5. jugo."
+    },
+    {
+        "input": "Rearrange the following words to make a grammatically correct sentence:\n\nEnglish my learn I",
+        "output": "Aprendo inglés."
+    },
+    {
+        "input": "Create a slogan that represents the concept of Artificial Intelligence",
+        "output": "\"Mejorar la inteligencia humana, un algoritmo a la vez\"."
+    },
+    {
+        "input": "Select a random element from the list [apple, oranges, pears, strawberries].",
+        "output": "Un elemento aleatorio de la lista [manzana, naranjas, peras, fresas] es: naranjas."
+    },
+    {
+        "input": "Categorize this sentence into a specific emotion: She felt left out of the group.",
+        "output": "La emoción específica que se transmite en la frase, \"Ella se sentía excluida del grupo\", es la tristeza."
+    },
+    {
+        "input": "Rewrite the following sentence: \"He was so tired, he fell asleep.\"",
+        "output": "Estando muy agotado, se quedó dormido."
+    },
+    {
+        "input": "Write a creative sentence using the following three words: love, perseverance and adventure.",
+        "output": "\"El amor verdadero a menudo requiere perseverancia, como una aventura que no se conquista fácilmente, pero es una de las mayores recompensas de una vida\"."
+    },
+    {
+        "input": "Rewrite the following sentence using a different word: \"He shuffled his feet in shame.\"",
+        "output": "Arrastró sus pies en la vergüenza."
+    },
+    {
+        "input": "Suggest a creative title for a story about a robot that dreams of being human.",
+        "output": "\"El sueño humano: el viaje de un robot hacia la sensibilidad\""
+    },
+    {
+        "input": "Factor the expression x(x+2)+(x+2).",
+        "output": "x(x+2) + (x+2) = (x+1)(x+2)"
+    },
+    {
+        "input": "Factor the following expression: 145b^2 +29b.",
+        "output": "Para factorizar la expresión 145b^2 + 29b, podemos extraer el mayor factor común de 29b de ambos términos, lo que nos da: 29b (((5b + 1)."
+    },
+    {
+        "input": "Come up with a title for a sci-fi book.",
+        "output": "\"Crónicas de los Últimos Terrestres\""
+    },
+    {
+        "input": "Write a haiku poem of a serene beach.",
+        "output": "Las olas besan la costa suave brisa, arena entre mis dedos pacífica fuga de playa."
+    },
+    {
+        "input": "Translate \"My name is John\" into French.",
+        "output": "Mi nombre es John."
+    },
+    {
+        "input": "Create a slogan to promote a new computer game.",
+        "output": "\"Entra en nuevos mundos y supera los desafíos con nuestro último juego de ordenador!\""
+    },
+    {
+        "input": "Generate a new sentence using the words 'visit' and 'beach'.",
+        "output": "No puedo esperar a visitar la playa este verano y sentir la arena entre mis dedos."
+    },
+    {
+        "input": "How many continents are there on Earth?",
+        "output": "Hay siete continentes en la Tierra: Asia, África, América del Norte, América del Sur, Antártida, Europa y Australia."
+    },
+    {
+        "input": "Generate a query for an online search engine.",
+        "output": "\"¿Cuáles son los remedios caseros más eficaces para la erupción cutánea?\""
+    },
+    {
+        "input": "Name a country in North America.",
+        "output": "Un país en América del Norte son los Estados Unidos de América."
+    },
+    {
+        "input": "What is the scientific name of the honey bee?",
+        "output": "El nombre científico de la abeja es Apis mellifera."
+    },
+    {
+        "input": "Convert the sentence “I should have done it” into a sentence expressing regret.",
+        "output": "\"Me arrepiento de no haberlo hecho\"."
+    },
+    {
+        "input": "In three words, describe the taste of bitter chocolate.",
+        "output": "Intenso, agudo, adstringente."
+    },
+    {
+        "input": "Select the correct spelling of the word \"necessary\".",
+        "output": "La ortografía correcta de la palabra es \"necesario\"."
+    },
+    {
+        "input": "Guess the next line of this poem: “The sun shineth bright and the sky is blue, __”",
+        "output": "\"Los pájaros cantan dulcemente cuando el día comienza de nuevo\"."
+    },
+    {
+        "input": "Come up with a slogan for a local conservation charity.",
+        "output": "\"Protegiendo nuestro hogar, un acto a la vez: Únete al movimiento de conservación hoy mismo!\""
+    },
+    {
+        "input": "Describe the plot of dune with emojis.",
+        "output": "¿Qué quieres decir?"
+    },
+    {
+        "input": "Rewrite the following sentence to make it more concise: “People should be aware of the negative impact of single-use plastics on the environment.”",
+        "output": "Tenga cuidado con el daño ambiental que pueden causar los plásticos de un solo uso."
+    },
+    {
+        "input": "Generate a one sentence prospect for a novel about a virus outbreak.",
+        "output": "Tras un brote de virus mortal, un científico decidido compite contra el tiempo para encontrar una cura antes de que la humanidad sea aniquilada para siempre."
+    },
+    {
+        "input": "Construct a sentence with the following words: personification, monochrome",
+        "output": "El uso del artista de la personificación en la pintura monocromática dio vida a la escena de una manera cautivadora."
+    },
+    {
+        "input": "Generate a song title that has a dance vibe.",
+        "output": "\"Mueve tu cuerpo - un himno de baile\""
+    },
+    {
+        "input": "Generate a new hook for a pop song",
+        "output": "\"Atrapados en el ritmo, mientras nuestros corazones latan como uno, estamos bailando a través de la noche, hasta que veamos el sol\"."
+    },
+    {
+        "input": "What is the full form of CPU?",
+        "output": "La forma completa de CPU es Unidad Central de Procesamiento."
+    },
+    {
+        "input": "Guess what is the opposite meaning of the word \"obscure\".",
+        "output": "El significado opuesto de la palabra \"oscuro\" es \"claro\" u \"obvio\"."
+    },
+    {
+        "input": "Generate a question about frogs.",
+        "output": "¿Cuál es la longitud promedio de una rana adulta?"
+    },
+    {
+        "input": "Name a famous artist from the Renaissance period.",
+        "output": "Un artista famoso del período del Renacimiento es Leonardo da Vinci."
+    },
+    {
+        "input": "Classify the following sentence as a statement or a question.\n\nHumans are mammals.",
+        "output": "La frase \"Los humanos somos mamíferos\" es una declaración."
+    },
+    {
+        "input": "Edit the following sentence to make it more accurate:\n\nHumans have been using technology for centuries",
+        "output": "Los humanos han estado usando la tecnología durante miles de años."
+    },
+    {
+        "input": "Create an English proverb that begins with the words \"A stitch in time\".",
+        "output": "Una puntada a tiempo salva a nueve."
+    },
+    {
+        "input": "What is the original title of the 1977 movie Star Wars?",
+        "output": "El título original de la película de 1977 Star Wars es \"Star Wars: Episodio IV  Una Nueva Esperanza\""
+    },
+    {
+        "input": "Create a math equation that equals to 10.",
+        "output": "Una ecuación posible es: 5 + 5 = 10."
+    },
+    {
+        "input": "What type of creature is a kangaroo?",
+        "output": "El canguro es un marsupial, que es un tipo de mamífero que se encuentra principalmente en Australia y sus islas circundantes."
+    },
+    {
+        "input": "Generate a sentence with the words \"carrot\" and \"telephone\".",
+        "output": "\"Cuando contesté el teléfono, mi amiga me contaba su nueva receta que incluía zanahorias como ingrediente principal\"."
+    },
+    {
+        "input": "Subtract \"83\" from \"140\".",
+        "output": "El resultado de restar 83 de 140 es 57."
+    },
+    {
+        "input": "Come up with a list of five items related to a camping trip.",
+        "output": "1. tienda de campaña 2. saco de dormir 3. linterna 4. estufa para acampar 5. refrigerador para alimentos y bebidas"
+    },
+    {
+        "input": "Come up with a sentence that includes an adverb of frequency.",
+        "output": "Normalmente desayuno a las 7 de la mañana todas las mañanas."
+    },
+    {
+        "input": "Provide me with an example sentence that uses the verb 'to waver'.",
+        "output": "\"A pesar de las dificultades que enfrentó, no se desanimó en su determinación de alcanzar su meta\"."
+    },
+    {
+        "input": "Edit the following sentence to make it more formal: \n\"You're my favorite assistant.\"",
+        "output": "\"Usted se distingue como mi asistente más preferido\"."
+    },
+    {
+        "input": "Compose a haiku about diversity and inclusion.",
+        "output": "Muchos tonos diferentes, unidos en armonía y fuerza, un mundo de color."
+    },
+    {
+        "input": "Compose a haiku about the wonders of technology.",
+        "output": "Circuitos silenciosos, un mundo de descubrimientos, lleno de asombro."
+    },
+    {
+        "input": "Generate a unique random number between 0 and 1.",
+        "output": "Aquí hay un número aleatorio único entre 0 y 1: 0.8398753610272354"
+    },
+    {
+        "input": "List 5 computer programming languages",
+        "output": "En el caso de Python, el código es el siguiente:"
+    },
+    {
+        "input": "Generate a list of 3 names for a fictional character.",
+        "output": "1 Aiden Stone 2 Isadora Blackwood 3 Jasper Hawthorne y el otro es el hombre de la película."
+    },
+    {
+        "input": "Generate a creative title for a podcast episode.",
+        "output": "\"Más allá de los límites: liberando el poder de la mente\""
+    },
+    {
+        "input": "Name the colors of the rainbow.",
+        "output": "Los colores del arco iris suelen estar listados en el siguiente orden: rojo, naranja, amarillo, verde, azul, índigo y violeta."
+    },
+    {
+        "input": "Name five animals that live in the Arctic.",
+        "output": "1. el oso polar 2. el zorro ártico 3. la morsa 4. el caribú 5. la liebre ártica."
+    },
+    {
+        "input": "Translate the phrase \"bon voyage\" into Spanish.",
+        "output": "En español \"bon voyage\" se puede traducir como \"buen viaje\"."
+    },
+    {
+        "input": "Identify if the following statement is true or false: The Panama Canal is a very short canal.",
+        "output": "La afirmación \"El Canal de Panamá es un canal muy corto\" es falsa."
+    },
+    {
+        "input": "Ask a question about consumer rights",
+        "output": "¿Puede explicar qué derechos específicos de los consumidores están protegidos por la ley y cómo pueden hacerse cumplir?"
+    },
+    {
+        "input": "Generate an anti-bullying slogan.",
+        "output": "\"La bondad siempre está de moda: ¡Diga no al acoso!\""
+    },
+    {
+        "input": "Generate an intriguing headline for a blog post on artificial intelligence.",
+        "output": "\"Descubre el potencial ilimitado de la inteligencia artificial: desatar el futuro hoy\""
+    },
+    {
+        "input": "Look for a synonym for the word \"greatness\".",
+        "output": "La palabra \"magnífica\" podría usarse como sinónimo de \"grandeza\"."
+    },
+    {
+        "input": "Generate a four-word motto with the words \"power\", \"courage\", \"dream\" and \"hope\".",
+        "output": "\"Poderosos, sueños valientes con esperanza!\""
+    },
+    {
+        "input": "Generate a headline for an article about a climate crisis.",
+        "output": "\"Crisis climática: el llamado urgente a la acción y el cambio a nivel mundial\""
+    },
+    {
+        "input": "Generate a name for a fantasy creature",
+        "output": "El fenrisiltorno"
+    },
+    {
+        "input": "Provide three adjectives to describe the color blue",
+        "output": "Calmante, fresco, sereno"
+    },
+    {
+        "input": "List six culinary herbs",
+        "output": "1. albahaca 2. romero 3. tomillo 4. orégano 5. perejil 6. cilantro."
+    },
+    {
+        "input": "How do you say \"Thank you\" in Japanese?",
+        "output": "En japonés, \"gracias\" se expresa como \"ありがとう\" (Arigatou) en su forma casual. Una forma más educada de decirlo es \"ありがとう\" (Arigatou gozaimasu)."
+    }
+]
