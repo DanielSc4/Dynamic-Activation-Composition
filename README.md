@@ -21,14 +21,24 @@ You can try the online demo available on [🤗 HuggingFace Spaces](https://TODO.
 
 ## Citation
 ```bibtex
-@misc{scalena2024multipropertysteeringlargelanguage,
-      title={Multi-property Steering of Large Language Models with Dynamic Activation Composition}, 
-      author={Daniel Scalena and Gabriele Sarti and Malvina Nissim},
-      year={2024},
-      eprint={2406.17563},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-      url={https://arxiv.org/abs/2406.17563}, 
+@inproceedings{scalena-etal-2024-multi,
+    title = "Multi-property Steering of Large Language Models with Dynamic Activation Composition",
+    author = "Scalena, Daniel  and
+      Sarti, Gabriele  and
+      Nissim, Malvina",
+    editor = "Belinkov, Yonatan  and
+      Kim, Najoung  and
+      Jumelet, Jaap  and
+      Mohebbi, Hosein  and
+      Mueller, Aaron  and
+      Chen, Hanjie",
+    booktitle = "Proceedings of the 7th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, US",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.blackboxnlp-1.34",
+    pages = "577--603",
 }
 ```
 
